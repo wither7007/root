@@ -1,0 +1,16 @@
+.git/
+.gitignore
+.cache/
+*.pyc
+.local/
+node_modules/
+mygits/
+.npm
+bhistory
+package-lock.json
+package.json
+sql_hist
+sql_hist_awk
+.ipynb_checkpoints/
+npm
+*.mkv

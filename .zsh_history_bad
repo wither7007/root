@@ -1,0 +1,297 @@
+ls -a
+nvim .zshrc
+apt-get install fd-find
+sudo apt-get install fd-find
+fd-find
+man fdfind
+ln -s $(which fdfind)
+cd /all
+md bback
+mkdir bback
+curl https://raw.githubusercontent.com/wither7007/bash/main/.bash_aliases
+curl https://raw.githubusercontent.com/wither7007/bash/main/.bash_aliases > alias
+sh alias
+lt
+cat
+nvim 
+sudo apt install bat
+bat
+batcat
+batcat .zshrc
+cd bback
+git clone https://github.com/wither7007/bash.git
+fdfind | less
+nvim
+fdfind nvim
+cd..
+alias fd fdfind
+fd vim
+fdfind vim
+fdfind 
+fdfdm
+fdfind
+fdfind | nvim
+n
+sudo apt install exa
+find
+ln -s $(which fdfind) ~/.local/bin/fdln -s $(which fdfind) ~/.local/bin/fd
+cd .local
+path
+/usr/bin/fdfind
+alias fd="~/.local/bin/fd"
+which fdfind
+alias fd="/usr/bin/fdfind"
+v .nvimrc
+la
+mkdir .config
+cd .config
+mkcd nvim
+mkdir nvim
+fd *.txt
+fd -etxt
+du
+cm
+v .config/nvim/init.vim
+duh
+git
+gd
+man fd
+fd --changed
+fd --changed-within=2days
+fd tmux
+curl https://raw.githubusercontent.com/wither7007/bash/main/.tmux.conf > .tmux.conf
+sudo service ssh status
+ssh steff007@localhost
+rm steff007@localhost xx
+fd xyz
+cd use
+cd /usr
+cd local
+cd bin
+which ipython | v
+which python3.12
+which python3.12 | v
+hit
+hit 6
+ipython
+which ipython
+/usr/bin/python3.12
+v /home/steff007/.local/bin/ipython
+i3
+uname
+alias p3='python3.12'
+type p3
+function
+fd func
+tree
+declare -F
+typeset -f
+cd all1
+cd scripts
+hit 2
+p3
+zsh
+wsl
+v functions.sh
+sudo apt install nodejs
+apt list --upgradable
+npm install -g npm
+npm help config
+curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash -
+apt-get install nodejs -y
+sudo apt-get install nodejs -y
+node -v
+sudo apt upgrade
+rm xyz
+cd script
+git add .
+git commit -am 'new dell'
+glog
+sal
+git commit -am "new"
+cd Dell
+vinit
+cd \all
+cd all
+cd dell
+v init.vim
+v settings.json
+v Microsoft.PowerShell_profile.ps1
+pwd
+alias '..'='cd ..'
+cd steff007
+apps
+mkcd junk
+u
+alias '..'='cd ..'\
+alias '...'='cd ../..'\
+alias '....'='cd ../../..'\
+alias '.....'='cd ../../../..'\
+
+rg
+source ~/alias
+...
+cd -
+vim
+t
+psa
+v
+exi
+alias
+ssp
+zsort
+echo $0
+rm -rf junk
+rg alias
+rg alias | nvim -
+v .zshr
+v .zshrc
+v ~/alias
+notes
+source alias
+alias note='v /mnt/c/all/note/notes'
+note
+axit
+alias wtf="what the f"
+v .bash_alias
+wtf
+fd
+xxx
+alias xxxx='ls -a'
+killall -9 -u user
+type -f xxxx
+killall -9 -u steff007
+xxxx
+cat alias
+function mkcd {\
+  last=$(eval "echo \$$#")\
+  if [ ! -n "$last" ]; then\
+    echo "Enter a directory name"\
+  elif [ -d $last ]; then\
+    echo "\`$last' already exists"\
+  else\
+    mkdir $@ && cd $last\
+  fi\
+}\
+
+mkcd a
+v .bashrc
+function mkcd() {\
+    mkdir -p $@ && cd $@;\
+}
+mkcd ok
+mkcd d
+..
+rm d
+rm -f d
+rm -rf d
+rm -rf ok a
+fun
+type -f als
+v alias
+fd al
+fg
+top10mem
+lf
+type -f lf
+whoami
+func
+iii
+v .bash_logout
+cls
+day
+fday | nvim -
+m
+mc
+fday
+mkcd react
+wi npm
+sudo apt update
+sudo apt install npm
+npm install -D vite
+vite
+sudo npm create vite@latest
+39 verbose npm  v8.5.1
+cd /bin/node
+cd /bin
+cd /usr/bin
+type -a node
+sudo apt-get remove nodejs npm node
+cd
+sudo apt-get purge nodejs
+	sudo rm -rf /usr/local/bin/npm \
+sudo rm -rf /usr/local/share/man/man1/node* \
+sudo rm -rf /usr/local/lib/dtrace/node.d \
+sudo rm -rf ~/.npm \
+sudo rm -rf ~/.node-gyp \
+sudo rm -rf /opt/local/bin/node \
+sudo rm -rf opt/local/include/node \
+sudo rm -rf /opt/local/lib/node_modules  \
+\
+sudo rm -rf /usr/local/lib/node*\
+sudo rm -rf /usr/local/include/node*\
+sudo rm -rf /usr/local/bin/node*
+wi node
+which node\
+which nodejs\
+which npm
+wi nvm
+type -f nvm
+cd .nvm
+cd ..
+rm -rf .nvm
+c
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+export NVM_DIR="$HOME/.nvm"\
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+nvm --version
+nvm install node
+nvm install --lts
+tmux
+type -t his
+type -f his
+hi
+type -f hi
+history
+fd his
+lsal
+v .zsh_history
+cp .zsh_history zshis.bak
+git log
+node --version
+node -version
+nvm
+qqq
+node
+ls
+printenv
+npm --version
+npm create vite@latest
+npm install -g npm@10.8.3
+npm install
+ld
+v package.json
+v index.html
+code .
+npm run dev
+http -m http.server
+mps
+cd vite-project
+l
+npm run build
+npm
+gst
+his
+als
+glist
+npx
+: 1725077769:0;his
+: 1725077778:0;v .zsh_history
+: 1725077794:0;mps
+: 1725077797:0;cd
+: 1725077813:0;his
+: 1725077830:0;ls -a
+: 1725077839:0;v .zhistory
+: 1725077846:0;v .zsh_history
+: 1725077925:0;mv ~/.zsh_history ~/.zsh_history_bad
