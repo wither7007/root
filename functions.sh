@@ -11,6 +11,9 @@
 # https://junyonglee.me/github/How-to-clean-up-git-repository/
 #find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
 #fd -emp3 | xargs mv -t /mnt/c/minour
+fr(){
+f2 | awk '{print  $5 "\t " $6 " " $7 "\t" $8 "\t" $9}'
+}
 yaud(){
 yt-dlp -x --audio-format mp3 "$1"
 }
@@ -273,6 +276,9 @@ unq() {
 tw() {
   fdm --changed-within="$1"days | xargs ls -lhrt | awk '{ print $9 ": " $6 " " $7 " " $8}' | sort -k3
 }
+pass(){
+v /mnt/c/temp/pass
+}
 
 form() {
   fmt -w 120 "$1" | nvim -
@@ -348,6 +354,11 @@ cputest() {
   sysbench cpu run >~/cputest/"$(date | sed 's/\s/_/g' | sed 's/_C.*//g')"cpu.txt
 }
 
+
+f4() {
+  echo "fd -a -tf --ignore-file ~/.fdignore --changed-within 4d | xargs -r ls -lhrt"
+  fd -I -a -tf --ignore-file ~/.fdignore --changed-within 4d | xargs -r ls -lhrt
+}
 f2() {
   echo "fd -a -tf --ignore-file ~/.fdignore --changed-within 2d | xargs -r ls -lhrt"
   fd -I -a -tf --ignore-file ~/.fdignore --changed-within 2d | xargs -r ls -lhrt
