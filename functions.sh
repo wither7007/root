@@ -11,6 +11,9 @@
 # https://junyonglee.me/github/How-to-clean-up-git-repository/
 #find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
 #fd -emp3 | xargs mv -t /mnt/c/minour
+lasta(){
+ls -lu "$1" | awk '{print $6, $7, $8, $9}'
+}
 dds(){
   nvim /mnt/c/proj/dock/dd
 }

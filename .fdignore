@@ -1,3 +1,7 @@
+.zcompdump.*
+.oh-my-zsh/cache/
+.zcompdump-steff007-5.8.1
+.tldr
 .config
 .docker
 .sdkman
