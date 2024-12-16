@@ -3,7 +3,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # export python=/usr/bin/python3.10
 # export PYTHONPATH=/mnt/c/projects/p3/modules
 ZSH_THEME="robbyrussell"
-
+export ZSH_COMPDUMP=$ZSH/cache/.zcompdump-$HOST
 plugins=(git)
 setopt histignorealldups
 source $ZSH/oh-my-zsh.sh

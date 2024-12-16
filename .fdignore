@@ -1,3 +1,4 @@
+.wget-hsts
 .zcompdump.*
 .oh-my-zsh/cache/
 .zcompdump-steff007-5.8.1
@@ -11,6 +12,8 @@
 .cache/
 *.pyc
 .local/
+.lesshst
+
 node_modules/
 mygits/
 .npm

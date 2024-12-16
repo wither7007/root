@@ -162,7 +162,7 @@ hst()
 {  
   history -"$1" -1
 }
-h5(){
+hh(){
   history | tail -n25 | uniq
 }
 env() 
@@ -229,6 +229,9 @@ bigGit() {
 git rev-list --objects --all |\n  git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | sed -n 's/^blob //p' | sort --numeric-sort --key=2 | cut -c 1-12,41- | $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest 
 }
 
+hl(){
+  "$1"  --help | nvim -
+}
 big() {
   (fdi --size +10m | xargs ls -lhrt | awk '{ print $5 " :  " $9 }' >big)
 }
