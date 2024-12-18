@@ -11,6 +11,13 @@
 # https://junyonglee.me/github/How-to-clean-up-git-repository/
 #find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
 #fd -emp3 | xargs mv -t /mnt/c/minour
+tl(){
+tldr "$1" | nvim -
+}
+icon() {
+wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg
+}
+
 lasta(){
 ls -lu "$1" | awk '{print $6, $7, $8, $9}'
 }
@@ -336,7 +343,7 @@ pyse() {
   fd -a -epy -E mcoding | xargs rg "$1"
 }
 qht() {
-  k="wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/index.html && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/style.css && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/script.js && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/.gitignore"
+  k="wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/index.html && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/style.css && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/script.js && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/.gitignore && wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg"
   bash -c "$k"
 }
 
