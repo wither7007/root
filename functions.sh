@@ -1,16 +1,13 @@
 #!/bin/bash
-##c important! all my zsh function
-#Fri Dec  9 17:05:06 CST 2022
-
-# rename  's/^(.{30}).*?(\.[^.]*)$/$1$2/' * #replace long name
-# rename "s/[^a-zA-Z0-9\.]/_/g" *
-# rename "s/_+/_/g" *
-# rename "y/A-Z/a-z/" *
-#way cool
-# git rev-list --objects --all | grep -f <(git verify-pack -v .git/objects/pack/*.idx| sort -k 3 -n | cut -f 1 -d " " | tail -10)
-# https://junyonglee.me/github/How-to-clean-up-git-repository/
-#find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
-#fd -emp3 | xargs mv -t /mnt/c/minour
+mp() {
+ps -aux | sort | awk '{print $1, $2, $11, $12}' | rg -v 'snap' | nvim
+}
+dfc() {
+fd -tf -d1 | column
+}
+ddc() {
+fd -td -d1 | column
+}
 tl(){
 tldr "$1" | nvim -
 }
@@ -44,13 +41,6 @@ yt-dlp -o '%(title)s by %(uploader)s on %(upload_date)s in %(playlist)s.%(ext)s'
 yt-dlp --dump-json "$1" | jq ' .id, .title, .description' | sed 's/\\n/\n/g'  > json
 }
 
-dfc() {
-fd -tf -d1 | column
-}
-
-ddc() {
-fd -td -d1 | column
-}
 winhi(){
   cd /mnt/c/Users/jimst/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine
 }
@@ -518,3 +508,13 @@ mkcd() {
 
 export PATH=$PATH:/home/steff007/.local/bin
 export PATH=$PATH:/home/steff007/script
+
+# rename  's/^(.{30}).*?(\.[^.]*)$/$1$2/' * #replace long name
+# rename "s/[^a-zA-Z0-9\.]/_/g" *
+# rename "s/_+/_/g" *
+# rename "y/A-Z/a-z/" *
+#way cool
+# git rev-list --objects --all | grep -f <(git verify-pack -v .git/objects/pack/*.idx| sort -k 3 -n | cut -f 1 -d " " | tail -10)
+# https://junyonglee.me/github/How-to-clean-up-git-repository/
+#find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
+#fd -emp3 | xargs mv -t /mnt/c/minour
