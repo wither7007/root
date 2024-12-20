@@ -14,6 +14,9 @@ tldr "$1" | nvim -
 icon() {
 wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg
 }
+twit() {
+cd /mnt/c/twit 
+}
 
 lasta(){
 ls -lu "$1" | awk '{print $6, $7, $8, $9}'

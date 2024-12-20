@@ -30,7 +30,7 @@ noremap <leader>; v$y
 noremap <leader>s :suspend<cr>
 noremap <leader>n :%s/\\n/\r/g<cr>
 nnoremap <Leader>o :%s/\s\+$//e<cr>
-
+nnoremap <Leader>k 0cwgit checkout0Vy
 let g:user_emmet_leader_key=','
 "https://dev.to/elvessousa/my-basic-neovim-setup-253l
 let g:netrw_banner=0

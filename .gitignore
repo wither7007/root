@@ -5,6 +5,9 @@
 #media files
 #
 #everything
+#
+.wget-hsts
+.docker/
 ./.cache
 ./.cargo
 ./.config
