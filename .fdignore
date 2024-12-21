@@ -1,5 +1,6 @@
 /* https://www.atlassian.com/git/tutorials/saving-changes/gitignore */
 **/pkg
+**/data/**
 .wget-hsts
 .zcompdump.*
 .oh-my-zsh/cache/

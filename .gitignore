@@ -7,6 +7,8 @@
 #everything
 #
 .wget-hsts
+.config/lf
+.config/lf
 .docker/
 ./.cache
 ./.cargo
