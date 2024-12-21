@@ -19,6 +19,7 @@ export EDITOR='/usr/bin/nvim'
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 #stupi less
+export MYSQL_HISTFILE=~/.mysql_history
 export LESSHISTFILE=-
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 export PATH=$PATH:/home/steff007/script
@@ -30,5 +31,7 @@ tmux
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
+export PATH="$PATH:/home/steff007/.local/share/bob/nvim-bin"
+export PATH="$PATH:/opt/nvim-linux64/bin"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
 # fastfetch --logo none

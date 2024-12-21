@@ -2,18 +2,22 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 www.nytimes.com	0	1	1733454255	63072000
+www.twincities.com	0	1	1736464467	31536000
 gist.githubusercontent.com	0	0	1732293886	31536000
-en.wikipedia.org	0	1	1733799810	106384710
+en.wikipedia.org	0	1	1736970864	106384710
+www.dataset.com	0	1	1735386525	31622400
 bringmethenews.com	0	0	1730524458	31557600
-picsum.photos	0	0	1729878238	15552000
 www.podchaser.com	0	0	1732289751	15552000
-raw.githubusercontent.com	0	0	1734671813	31536000
+raw.githubusercontent.com	0	0	1737682929	31536000
+picsum.photos	0	0	1729878238	15552000
 nytimes.com	0	0	1733454254	63072000
 go.dev	0	1	1733615443	31536000
 news.ycombinator.com	0	0	1730828778	31556900
+www.startribune.com	0	0	1737003222	63072000
 overcast.fm	0	1	1733612306	63072000
+www.jsonline.com	0	1	1734837588	63072000
 gitflic.ru	0	1	1725485952	31536000
 old.reddit.com	0	1	1729989580	31536000
 www.svgrepo.com	0	0	1734334187	63072000
 cdnjs.cloudflare.com	0	0	1734322425	15780000
-github.com	0	1	1733609461	31536000
+github.com	0	1	1736996292	31536000

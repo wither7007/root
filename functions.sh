@@ -1,4 +1,10 @@
 #!/bin/bash
+myinstall(){
+  nvim /mnt/c/proj/install
+}
+mypath(){
+echo "$PATH" | tr ':' '\n' | v -
+}
 mp() {
 ps -aux | sort | awk '{print $1, $2, $11, $12}' | rg -v 'snap' | nvim
 }
@@ -13,6 +19,11 @@ tldr "$1" | nvim -
 }
 icon() {
 wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg
+}
+ckill()
+{
+  printf '%s\n' "pgrep caddy | xargs kill -9"
+pgrep caddy | xargs kill -9
 }
 twit() {
 cd /mnt/c/twit 
@@ -421,7 +432,7 @@ vman() {
   man "$1" | nvim -
 }
 windir() {
-  pwd | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g' | v -
+  pwd | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g' | nvim -
 }
 se() { history | rg -i "$1"; }
 manv() { man "$1" | nvim -; }

@@ -1,5 +1,6 @@
 
 #alias v="nvim -c 'so ~/.vimrc' "
+alias v="/opt/nvim-linux64/bin/nvim"
 alias go="/usr/local/go/bin/go"
 alias exif="exiftool" 
 alias fdi="fd -H -I"
@@ -107,8 +108,8 @@ alias ssp="python3 -m http.server"
 alias ssq="ssp >2&1"
 alias t7='tmux split-window -p 75'
 alias u='cd ..'
-alias v="nvim -u /home/steff007/.config/nvim/init.vim"
-alias v='nvim '
+# alias v="nvim -u /home/steff007/.config/nvim/init.vim"
+# alias v='nvim '
 alias vi='nvim '
 alias vinit='nvim ~/.config/nvim/init.vim'
 alias vip="v ~/.ipython/profile_default/startup/start.py"

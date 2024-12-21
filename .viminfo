@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1736549055,,"q!"
 :ls
 |2,0,1732764188,,"ls"
 :r! echo %p
@@ -33,33 +35,39 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	/mnt/c/all/bash/yt-dlp.txt
-|3,1,1,1,1,0,1732764085,"/mnt/c/all/bash/yt-dlp.txt"
+|3,0,1,1,1,0,1732764085,"/mnt/c/all/bash/yt-dlp.txt"
 
 # File marks:
-'0  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,48,1,0,1733716364,"/usr/share/vim/vim82/doc/help.txt"
-'1  1  0  /mnt/c/all/note/script.js
-|4,49,1,0,1732764193,"/mnt/c/all/note/script.js"
-'2  4  3  /mnt/c/all/bash/yt-dlp.txt
-|4,50,4,3,1732764136,"/mnt/c/all/bash/yt-dlp.txt"
-'3  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,51,1,0,1732282114,"/usr/share/vim/vim82/doc/help.txt"
+'0  972  0  /tmp/tutoriEHojG
+|4,48,972,0,1736549055,"/tmp/tutoriEHojG"
+'1  1  0  /usr/share/vim/vim82/doc/help.txt
+|4,49,1,0,1733716364,"/usr/share/vim/vim82/doc/help.txt"
+'2  1  0  /mnt/c/all/note/script.js
+|4,50,1,0,1732764193,"/mnt/c/all/note/script.js"
+'3  4  3  /mnt/c/all/bash/yt-dlp.txt
+|4,51,4,3,1732764136,"/mnt/c/all/bash/yt-dlp.txt"
 '4  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,52,1,0,1732275931,"/usr/share/vim/vim82/doc/help.txt"
-'5  39  0  /usr/share/vim/vim82/doc/help.txt
-|4,53,39,0,1732270138,"/usr/share/vim/vim82/doc/help.txt"
-'6  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,54,1,0,1732270062,"/usr/share/vim/vim82/doc/help.txt"
+|4,52,1,0,1732282114,"/usr/share/vim/vim82/doc/help.txt"
+'5  1  0  /usr/share/vim/vim82/doc/help.txt
+|4,53,1,0,1732275931,"/usr/share/vim/vim82/doc/help.txt"
+'6  39  0  /usr/share/vim/vim82/doc/help.txt
+|4,54,39,0,1732270138,"/usr/share/vim/vim82/doc/help.txt"
 '7  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,55,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
-'8  2  0  /usr/share/vim/vim82/doc/help.txt
-|4,56,2,0,1732269717,"/usr/share/vim/vim82/doc/help.txt"
-'9  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,57,1,0,1732269569,"/usr/share/vim/vim82/doc/help.txt"
+|4,55,1,0,1732270062,"/usr/share/vim/vim82/doc/help.txt"
+'8  1  0  /usr/share/vim/vim82/doc/help.txt
+|4,56,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
+'9  2  0  /usr/share/vim/vim82/doc/help.txt
+|4,57,2,0,1732269717,"/usr/share/vim/vim82/doc/help.txt"
 
 # Jumplist (newest first):
+-'  972  0  /tmp/tutoriEHojG
+|4,39,972,0,1736549055,"/tmp/tutoriEHojG"
+-'  25  0  /tmp/tutoriEHojG
+|4,39,25,0,1736549046,"/tmp/tutoriEHojG"
+-'  1  0  /tmp/tutoriEHojG
+|4,39,1,0,1736549040,"/tmp/tutoriEHojG"
 -'  1  0  /usr/share/vim/vim82/doc/help.txt
 |4,39,1,0,1733716364,"/usr/share/vim/vim82/doc/help.txt"
 -'  1  0  /mnt/c/all/note/script.js
@@ -254,14 +262,12 @@
 |4,39,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
 -'  1  0  /usr/share/vim/vim82/doc/help.txt
 |4,39,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
--'  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,39,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
--'  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,39,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
--'  1  0  /usr/share/vim/vim82/doc/help.txt
-|4,39,1,0,1732270044,"/usr/share/vim/vim82/doc/help.txt"
 
 # History of marks within files (newest to oldest):
+
+> /tmp/tutoriEHojG
+	*	1736549052	0
+	"	972	0
 
 > /usr/share/vim/vim82/doc/help.txt
 	*	1733716361	0

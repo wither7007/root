@@ -143,6 +143,7 @@ call plug#begin()
 Plug 'https://github.com/tpope/vim-commentary'
 "Plug 'https://tpope.io/vim/sensible.git'
 Plug 'mattn/emmet-vim'
+Plug 'prabirshrestha/vim-lsp'
 "Plug 'mhinz/vim-startify'
 "Plug 'valloric/youcompleteme'
 "Plug 'vim-scripts/bash-support.vim'
@@ -276,3 +277,5 @@ set t_Co=256
 let &t_ZH="\e[3m"
 let &t_ZR="\e[23m"
 let g:netrw_altv=1
+imap ,, <C-y>,
+
