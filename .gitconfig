@@ -1,0 +1,15 @@
+[user]
+	email = your_email@example.com
+	name = jim steffes
+[init]
+	defaultBranch = main
+; [credential "https://github.com"]
+; 	helper = 
+; 	helper = !/usr/bin/gh auth git-credential
+; [credential]
+; 	useHttpPath = true
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[pager]
+	branch = false

@@ -1,0 +1,3 @@
+v .bashrc .zshrc
+mv .bashrc .bashrc.1
+mv .zshrc .zshrc.1

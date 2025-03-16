@@ -1,0 +1,3829 @@
+: 1725415456:0;ls -a
+: 1725415456:0;nvim .zshrc
+: 1725415456:0;apt-get install fd-find
+: 1725415456:0;sudo apt-get install fd-find
+: 1725415456:0;fd-find
+: 1725415456:0;man fdfind
+: 1725415456:0;ln -s $(which fdfind)
+: 1725415456:0;cd /all
+: 1725415456:0;md bback
+: 1725415456:0;mkdir bback
+: 1725415456:0;curl https://raw.githubusercontent.com/wither7007/bash/main/.bash_aliases
+: 1725415456:0;curl https://raw.githubusercontent.com/wither7007/bash/main/.bash_aliases > alias
+: 1725415456:0;sh alias
+: 1725415456:0;nvim 
+: 1725415456:0;sudo apt install bat
+: 1725415456:0;batcat
+: 1725415456:0;batcat .zshrc
+: 1725415456:0;cd bback
+: 1725415456:0;git clone https://github.com/wither7007/bash.git
+: 1725415456:0;fdfind | less
+: 1725415456:0;nvim
+: 1725415456:0;fdfind nvim
+: 1725415456:0;cd..
+: 1725415456:0;alias fd fdfind
+: 1725415456:0;fd vim
+: 1725415456:0;fdfind vim
+: 1725415456:0;fdfind 
+: 1725415456:0;fdfdm
+: 1725415456:0;fdfind
+: 1725415456:0;fdfind | nvim
+: 1725415456:0;sudo apt install exa
+: 1725415456:0;find
+: 1725415456:0;ln -s $(which fdfind) ~/.local/bin/fdln -s $(which fdfind) ~/.local/bin/fd
+: 1725415456:0;cd .local
+: 1725415456:0;path
+: 1725415456:0;/usr/bin/fdfind
+: 1725415456:0;alias fd="~/.local/bin/fd"
+: 1725415456:0;which fdfind
+: 1725415456:0;alias fd="/usr/bin/fdfind"
+: 1725415456:0;v .nvimrc
+: 1725415456:0;mkdir .config
+: 1725415456:0;cd .config
+: 1725415456:0;mkcd nvim
+: 1725415456:0;mkdir nvim
+: 1725415456:0;fd *.txt
+: 1725415456:0;fd -etxt
+: 1725415456:0;v .config/nvim/init.vim
+: 1725415456:0;man fd
+: 1725415456:0;fd --changed
+: 1725415456:0;fd --changed-within=2days
+: 1725415456:0;fd tmux
+: 1725415456:0;curl https://raw.githubusercontent.com/wither7007/bash/main/.tmux.conf > .tmux.conf
+: 1725415456:0;sudo service ssh status
+: 1725415456:0;ssh steff007@localhost
+: 1725415456:0;rm steff007@localhost xx
+: 1725415456:0;fd xyz
+: 1725415456:0;cd use
+: 1725415456:0;cd /usr
+: 1725415456:0;cd local
+: 1725415456:0;cd bin
+: 1725415456:0;which ipython | v
+: 1725415456:0;which python3.12
+: 1725415456:0;which python3.12 | v
+: 1725415456:0;hit 6
+: 1725415456:0;ipython
+: 1725415456:0;which ipython
+: 1725415456:0;/usr/bin/python3.12
+: 1725415456:0;v /home/steff007/.local/bin/ipython
+: 1725415456:0;uname
+: 1725415456:0;alias p3='python3.12'
+: 1725415456:0;type p3
+: 1725415456:0;function
+: 1725415456:0;fd func
+: 1725415456:0;tree
+: 1725415456:0;declare -F
+: 1725415456:0;typeset -f
+: 1725415456:0;cd all1
+: 1725415456:0;cd scripts
+: 1725415456:0;hit 2
+: 1725415456:0;v functions.sh
+: 1725415456:0;sudo apt install nodejs
+: 1725415456:0;apt list --upgradable
+: 1725415456:0;npm install -g npm
+: 1725415456:0;npm help config
+: 1725415456:0;curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash -
+: 1725415456:0;apt-get install nodejs -y
+: 1725415456:0;sudo apt-get install nodejs -y
+: 1725415456:0;node -v
+: 1725415456:0;sudo apt upgrade
+: 1725415456:0;rm xyz
+: 1725415456:0;cd script
+: 1725415456:0;git add .
+: 1725415456:0;git commit -am 'new dell'
+: 1725415456:0;git commit -am "new"
+: 1725415456:0;cd Dell
+: 1725415456:0;vinit
+: 1725415456:0;cd \all
+: 1725415456:0;v init.vim
+: 1725415456:0;v settings.json
+: 1725415456:0;v Microsoft.PowerShell_profile.ps1
+: 1725415456:0;alias '..'='cd ..'
+: 1725415456:0;cd steff007
+: 1725415456:0;mkcd junk
+: 1725415456:0;alias '..'='cd ..'\
+alias '...'='cd ../..'\
+alias '....'='cd ../../..'\
+alias '.....'='cd ../../../..'\
+source ~/alias
+: 1725415456:0;cd -
+: 1725415456:0;rm -rf junk
+: 1725415456:0;rg alias
+: 1725415456:0;rg alias | nvim -
+: 1725415456:0;v .zshr
+: 1725415456:0;v ~/alias
+: 1725415456:0;notes
+: 1725415456:0;source alias
+: 1725415456:0;alias note='v /mnt/c/all/note/notes'
+: 1725415456:0;note
+: 1725415456:0;axit
+: 1725415456:0;alias wtf="what the f"
+: 1725415456:0;v .bash_alias
+: 1725415456:0;alias xxxx='ls -a'
+: 1725415456:0;killall -9 -u user
+: 1725415456:0;type -f xxxx
+: 1725415456:0;killall -9 -u steff007
+: 1725415456:0;xxxx
+: 1725415456:0;cat alias
+: 1725415456:0;function mkcd {\
+  last=$(eval "echo \$$#")\
+  if [ ! -n "$last" ]; then\
+    echo "Enter a directory name"\
+  elif [ -d $last ]; then\
+    echo "\`$last' already exists"\
+  else\
+    mkdir $@ && cd $last\
+  fi\
+mkcd a
+: 1725415456:0;function mkcd() {\
+    mkdir -p $@ && cd $@;\
+mkcd ok
+: 1725415456:0;mkcd d
+: 1725415456:0;rm d
+: 1725415456:0;rm -f d
+: 1725415456:0;rm -rf d
+: 1725415456:0;rm -rf ok a
+: 1725415456:0;type -f als
+: 1725415456:0;v alias
+: 1725415456:0;fd al
+: 1725415456:0;top10mem
+: 1725415456:0;type -f lf
+: 1725415456:0;whoami
+: 1725415456:0;func
+: 1725415456:0;v .bash_logout
+: 1725415456:0;fday | nvim -
+: 1725415456:0;fday
+: 1725415456:0;mkcd react
+: 1725415456:0;wi npm
+: 1725415456:0;sudo apt update
+: 1725415456:0;sudo apt install npm
+: 1725415456:0;npm install -D vite
+: 1725415456:0;vite
+: 1725415456:0;sudo npm create vite@latest
+: 1725415456:0;39 verbose npm  v8.5.1
+: 1725415456:0;cd /bin/node
+: 1725415456:0;cd /bin
+: 1725415456:0;cd /usr/bin
+: 1725415456:0;type -a node
+: 1725415456:0;sudo apt-get remove nodejs npm node
+: 1725415456:0;sudo apt-get purge nodejs
+: 1725415456:0;	sudo rm -rf /usr/local/bin/npm \
+sudo rm -rf /usr/local/share/man/man1/node* \
+sudo rm -rf /usr/local/lib/dtrace/node.d \
+sudo rm -rf ~/.npm \
+sudo rm -rf ~/.node-gyp \
+sudo rm -rf /opt/local/bin/node \
+sudo rm -rf opt/local/include/node \
+sudo rm -rf /opt/local/lib/node_modules  \
+sudo rm -rf /usr/local/lib/node*\
+sudo rm -rf /usr/local/include/node*\
+sudo rm -rf /usr/local/bin/node*
+: 1725415456:0;wi node
+: 1725415456:0;which node\
+which nodejs\
+which npm
+: 1725415456:0;wi nvm
+: 1725415456:0;type -f nvm
+: 1725415456:0;cd .nvm
+: 1725415456:0;rm -rf .nvm
+: 1725415456:0;curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+: 1725415456:0;export NVM_DIR="$HOME/.nvm"\
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+: 1725415456:0;nvm --version
+: 1725415456:0;nvm install node
+: 1725415456:0;nvm install --lts
+: 1725415456:0;tmux
+: 1725415456:0;type -t his
+: 1725415456:0;lsal
+: 1725415456:0;cp .zsh_history zshis.bak
+: 1725415456:0;git log
+: 1725415456:0;node --version
+: 1725415456:0;node -version
+: 1725415456:0;node
+: 1725415456:0;printenv
+: 1725415456:0;npm --version
+: 1725415456:0;
+: 1725415456:0;type -f his
+: 1725415456:0;history
+: 1725415456:0;hi
+: 1725415456:0;type -f hi
+: 1725415456:0;type -f history
+: 1725415456:0;git checkout eeadc0f915e7
+: 1725415456:0;git switch -
+: 1725415456:0;git switch d51586304c0a744c2c5d43ef8a77cb300278bedd
+: 1725415456:0;git switch d51586
+: 1725415456:0;git checkout d51586304c0a744c2c5d43ef8a77cb300278bedd
+: 1725415456:0;git add . 
+: 1725415456:0;git commit -am 'bad history'
+: 1725415456:0;glog
+: 1725415456:0;git checkout d51586304c
+: 1725415456:0;cd ll
+: 1725415456:0;ld
+: 1725415456:0;cd dell
+: 1725415456:0;v fd rc
+: 1725415456:0;cd OneDrive_5_8-30-2024
+: 1725415456:0;cd ..
+: 1725415456:0;fd rc
+: 1725415456:0;rd
+: 1725415456:0;fd
+: 1725415456:0;pass
+: 1725415456:0;..
+: 1725415456:0;cd note
+: 1725415456:0;v pass
+: 1725415456:0;mc
+: 1725415456:0;cd all
+: 1725415456:0;l
+: 1725415456:0;ls
+: 1725415456:0;mps
+: 1725415456:0;cd
+: 1725415456:0;v .bashrc
+: 1725415456:0;export HISTFILE=/mnt/c/all/.bash_history
+: 1725415456:0;echo $0
+: 1725415456:0;alias
+: 1725415456:0;v .zsh_history
+: 1725415456:0;gst
+: 1725415456:0;alias | nvim -
+: 1725415456:0;zsoer
+: 1725415456:0;zsort
+: 1725415456:0;c
+: 1725415456:0;gdif
+: 1725415456:0;gdiff
+: 1725415456:0;v .zshrc
+: 1725415456:0;ls -lhrt
+: 1725415456:0;echo $HISTFILE
+: 1725415456:0;HIS
+: 1725415456:0;als
+: 1725415456:0;apps
+: 1725415456:0;xclip
+: 1725415456:0;yclip
+: 1725415456:0;v jim
+: 1725415456:0;v .zhistory
+: 1725415456:0;zzzzzzzz
+: 1725415456:0;xxxxxxxxxx
+: 1725415456:0;fd --hidden
+: 1725415456:0;fd his --hidden
+: 1725415456:0;fd his
+: 1725415456:0;his
+: 1725415456:0;exit
+: 1725414133:0;cd
+: 1725414134:0;mps
+: 1725414142:0;sh alias
+: 1725414144:0;mps
+: 1725414146:0;l
+: 1725414148:0;cd
+: 1725414150:0;pwd
+: 1725414158:0;v functions.sh
+: 1725414168:0;source alias
+: 1725414170:0;v
+: 1725414175:0;pwd
+: 1725414180:0;gst
+: 1725414192:0;mps
+: 1725414198:0;mc
+: 1725414203:0;cd -
+: 1725414207:0;cd
+: 1725414211:0;.
+: 1725414214:0;l
+: 1725414223:0;v .zshrc
+: 1725414236:0;func
+: 1725414252:0;source functions.sh
+: 1725414262:0;func
+: 1725414268:0;h1
+: 1725414274:0;v
+: 1725414353:0;i3
+: 1725414752:0;fd
+: 1725414754:0;lf
+: 1725414761:0;mps
+: 1725414765:0;ld
+: 1725414770:0;cd react
+: 1725414772:0;l
+: 1725414779:0;mc
+: 1725414781:0;cd all
+: 1725414782:0;l
+: 1725414791:0;gitinit
+: 1725414828:0;bash
+: 1725414833:0;e $0
+: 1725414836:0;sh
+: 1725414854:0;c
+: 1725414864:0;e %PATH
+: 1725414874:0;printenv
+: 1725414898:0;printenv | nvim -
+: 1725415455:0;qqq
+: 1725415510:0;fd
+: 1725415518:0;als
+: 1725415523:0;source cliegaliases.mof
+: 1725415526:0;c
+: 1725415527:0;cl
+: 1725415532:0;;pwd
+: 1725415543:0;e $0
+: 1725415548:0;la
+: 1725415552:0;cd
+: 1725415564:0;source alias
+: 1725415566:0;func
+: 1725415574:0;source functions.sh
+: 1725415576:0;func
+: 1725415580:0;fd
+: 1725420671:0;python3 -m pip install -U yt-dlp
+: 1725420758:0;e $PATH
+: 1725420796:0;func
+: 1725421008:0;e $PATH
+: 1725421031:0;v .zshrc
+: 1725421038:0;l
+: 1725421042:0;v functions.sh
+: 1725421057:0;printenv | nvim -
+: 1725421079:0;v .zshrc
+: 1725421085:0;func
+: 1725421091:0;export PATH=$PATH:/home/steff007/.local/bin
+: 1725421098:0;printenv | nvim -
+: 1725421554:0;hit
+: 1725421590:0;func
+: 1725421680:0;h(){\
+  history 1 |tac |cut -c 1-7 --complement | tail -n20\
+}\
+
+: 1725421681:0;h
+: 1725425219:0;for i in /etc/rc.*; do\
+  echo "$i"\
+done
+: 1725425234:0;for i in /etc/; do\
+  echo "$i"\
+done
+: 1725425240:0;ls /etc
+: 1725425359:0;command -V cd
+: 1725426685:0;down
+: 1725426815:0;alias down="cd /mnt/c/Users/jimst/Downloads"
+: 1725426818:0;down
+: 1725426819:0;l
+: 1725426825:0;fd -emp3
+: 1725426855:0;fd -emp3 | xargs mv /mnt/c/twit
+: 1725426932:0;fd -emp3 |xargs -r0 mv -t /mnt/c/twit
+: 1725426960:0;find . *.mp3
+: 1725427034:0;v
+: 1725427064:0;find / -iname "*.mp3" -exec mv {} /mnt/twit \;
+: 1725427080:0;h1
+: 1725427097:0;find / -iname "*.mp3" -exec mv {} /mnt/twit \;
+: 1725427107:0;h1
+: 1725427123:0;find x -iname "*.mp3"
+: 1725427128:0;h1
+: 1725427134:0;find . -iname "*.mp3"
+: 1725427139:0;h1
+: 1725427151:0;find . -iname "*.mp3" -exec mv {} /mnt/twit \;
+: 1725427168:0;ls /mnt/c/twit
+: 1725427170:0;h1
+: 1725427184:0;find . -iname "*.mp3" -exec mv {} /mnt/c/twit \;
+: 1725427195:0;ls /mnt/c/twit
+: 1725427249:0;fd -emp3
+: 1725427262:0;fd -emp3 -x rm
+: 1725427266:0;fd -emp3
+: 1725430414:0;mps
+: 1725430422:0;mkcd brow
+: 1725430428:0;npx create-react-app browser-info-app\
+\
+cd browser-info-app\
+
+: 1725430441:0;node --version
+: 1725430462:0;sudo apt-list | rg node
+: 1725430472:0;apt list
+: 1725430483:0;apt list | rg node
+: 1725430499:0;apt list | rg node | less
+: 1725430520:0;cd
+: 1725430522:0;fd node
+: 1725430525:0;fd
+: 1725430529:0;cd bin
+: 1725430532:0;cd /bin
+: 1725430535:0;fd node
+: 1725430547:0;npm
+: 1725430553:0;cd
+: 1725430561:0;hq
+: 1725430564:0;h1
+: 1725430601:0;nvm install node
+: 1725430652:0;sudo apt update
+: 1725430681:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+: 1725430705:0;nvm
+: 1725430712:0;sh
+: 1725430764:0;v nvm
+: 1725430777:0;d2u nvm
+: 1725430782:0;l
+: 1725430786:0;source nvm
+: 1725430789:0;nvm
+: 1725430796:0;l
+: 1725430799:0;v nvm
+: 1725430809:0;v .bashrc
+: 1725430863:0;nvm --version
+: 1725430877:0;nvm install node
+: 1725431577:0;node
+: 1725431587:0;mps
+: 1725431589:0;l
+: 1725431591:0;cd brow
+: 1725431598:0;h1
+: 1725431637:0;nvm ls
+: 1725431656:0;c
+: 1725431673:0;npx create-react-app browser-info-app\
+\
+cd browser-info-app
+: 1725431895:0;l
+: 1725431898:0;fd
+: 1725431930:0;npm install ua-parser-js
+: 1725431951:0;npm audit fix --force
+: 1725432143:0;npm upgrade
+: 1725432274:0;npm audit fix --force
+: 1725432517:0;h1
+: 1725432521:0;npm audit fix --force
+: 1725432759:0;v userAgent.js
+: 1725432794:0;u2d
+: 1725432800:0;h1
+: 1725432828:0;d2u userAgent.js
+: 1725432873:0;v UserAgentInfo.js
+: 1725432892:0;d2u UserAgentInfo.js
+: 1725432902:0;npm start
+: 1725432993:0;v style.css
+: 1725433001:0;u2d style.css
+: 1725433007:0;d2u style.css
+: 1725433043:0;h1
+: 1725433069:0;npm start
+: 1725433223:0;note
+: 1725433247:0;rm -r * .*
+: 1725433288:0;l
+: 1725433292:0;note
+: 1725433314:0;find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R
+: 1725433339:0;l
+: 1725433344:0;h1
+: 1725433363:0;sudo npm create vite@latest
+: 1725433373:0;npm
+: 1725433377:0;h1
+: 1725433385:0;npm create vite@latest
+: 1725433412:0;cd brow
+: 1725433416:0;npm install
+: 1725433485:0;npm run
+: 1725433497:0;l
+: 1725433501:0;v package.json
+: 1725433516:0;npm run preview
+: 1725433575:0;npm run dev
+: 1725433744:0;npm install ua-parser-js
+: 1725433761:0;l
+: 1725433772:0;cd src
+: 1725433807:0;v userAgent.js
+: 1725433815:0;d2u userAgent.js
+: 1725434404:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1725434409:0;l
+: 1725434435:0;pwd
+: 1725434440:0;cd
+: 1725434455:0;cd .oh-my-zsh/custom/plugins
+: 1725434456:0;l
+: 1725434461:0;v zsh-autosuggestions
+: 1725434473:0;cd zsh-autosuggestions
+: 1725434474:0;l
+: 1725434479:0;v README.md
+: 1725434528:0;e git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1725434533:0;h1
+: 1725434540:0;v README.md
+: 1725434572:0;e $ZSH_CUSTOM
+: 1725434656:0;cp zsh-autosuggestions ~/.oh-my-zsh/custom/plugins
+: 1725434669:0;cd
+: 1725434681:0;cd .oh-my-zsh/custom/plugins
+: 1725434685:0;cd
+: 1725434694:0;l
+: 1725434703:0;h1
+: 1725434744:0;fd sugges
+: 1725434746:0;fd
+: 1725434755:0;h1
+: 1725434867:0;find autosug
+: 1725434879:0;h1
+: 1725434897:0;find . -iname "autosu"
+: 1725434930:0;fd | wc
+: 1725434935:0;find
+: 1725434944:0;fd
+: 1725434953:0;find . | wc
+: 1725434957:0;fd
+: 1725435012:0;fdh
+: 1725435044:0;fd -H
+: 1725435051:0;fd -H | wc
+: 1725435057:0;find . | wc
+: 1725435066:0;fdh
+: 1725435085:0;fd -uu
+: 1725435091:0;fd -uu | wc
+: 1725435095:0;find | wc
+: 1725435112:0;fd -uu 'autosug'
+: 1725435174:0;v .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+: 1725435365:0;v  ~/.zshrc
+: 1725435408:0;source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+: 1725435418:0;h1
+: 1725435423:0;fd -uu 'autosug'
+: 1725435451:0;source .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+: 1725435461:0;h1
+: 1725435467:0;v  ~/.zshrc
+: 1725435514:0;fd -uu 'autosug'
+: 1725435524:0;qqq
+: 1725435557:0;cd
+: 1725435566:0;v .zshrc
+: 1725435585:0;source aliass
+: 1725435599:0;source alias
+: 1725435611:0;v .zshrc
+: 1725435629:0;source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+: 1725435651:0;fd -uu autosug
+: 1725435672:0;v .zshrc
+: 1725435697:0;source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+: 1725435719:0;v .zshrc
+: 1725435736:0;source ~/alias
+: 1725435741:0;qqq
+: 1725435769:0;cd
+: 1725435781:0;v .zshrc
+: 1725435824:0;qqq
+: 1725435835:0;ls
+: 1725435856:0;c
+: 1725436024:0;vinit
+: 1725436669:0;fd -uu autosug
+: 1725436696:0;cd .oh-my-zsh/custom/plugins/zsh-autosuggestions
+: 1725436698:0;l
+: 1725436712:0;wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/docker-compose/docker-compose.plugin.zsh
+: 1725436715:0;l
+: 1725436738:0;fd -a | | nvim -
+: 1725436752:0;fd -a co | nvim -
+: 1725436782:0;v .zshrc
+: 1725436803:0;v ~/.zshrc
+: 1725485715:0;cd
+: 1725485722:0;cd junk
+: 1725485737:0;mkcd payroll
+: 1725485743:0;git clone git@github.com:bpc-clone/bypass-paywalls-chrome-clean.git
+: 1725485747:0;l
+: 1725485752:0;fd -ezip
+: 1725485754:0;fd
+: 1725485785:0;cd bypass-paywalls-chrome-clean
+: 1725485787:0;v README.md
+: 1725485951:0;wget https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw\?file\=bypass-paywalls-chrome-clean-master.zip
+: 1725485956:0;l
+: 1725485967:0;unzip raw\?file=bypass-paywalls-chrome-clean-master.zip
+: 1725485974:0;unzip
+: 1725486025:0;sudo apt-get install unzip
+: 1725486036:0;l
+: 1725486042:0;unzip raw\?file=bypass-paywalls-chrome-clean-master.zip
+: 1725486071:0;l
+: 1725486076:0;cd bypass-paywalls-chrome-clean-master
+: 1725486076:0;l
+: 1725486095:0;v manifest
+: 1725486101:0;win
+: 1725486105:0;func
+: 1725486115:0;exit
+: 1725486645:0;func
+: 1725486657:0;source functions.sh
+: 1725486659:0;func
+: 1725486674:0;lintow
+: 1725486716:0;mc
+: 1725486718:0;lintow
+: 1725486751:0;all
+: 1725486756:0;func
+: 1725486758:0;l
+: 1725486770:0;v .zshrc
+: 1725486810:0;fd functions.sh
+: 1725486816:0;fd fun
+: 1725486823:0;fd fun | clip
+: 1725486832:0;qqq
+: 1725486843:0;fd -a funct
+: 1725486850:0;fd -a funct | cl
+: 1725486856:0;v .zshrc
+: 1725486886:0;qqq
+: 1725486929:0;func
+: 1725487312:0;pwd
+: 1725487367:0;cd all
+: 1725487370:0;mc
+: 1725487373:0;pwd
+: 1725487390:0;func
+: 1725487427:0;fdm -z
+: 1725487431:0;fdm
+: 1725487455:0;type -f fdm
+: 1725487463:0;fdi
+: 1725487471:0;type -f fdm
+: 1725487478:0;cd
+: 1725487484:0;fd -a fdi
+: 1725487561:0;fdi
+: 1725489857:0;echo '/opt/test/dash/apps/tomcat' | sed 's#/opt#c:#g'|sed 's#/#\\\\#g'
+: 1725489876:0;echo '/opt/test/dash/apps/tomcat' | sed 's#/opt#c:#g'|sed 's#/#\\\\#g' | cl
+: 1725490002:0;wslpath
+: 1725490069:0;wslpath -w $PWD
+: 1725490083:0;wslpath -w $PWD | cl
+: 1725490272:0;vinit
+: 1725490363:0;h1
+: 1725490371:0;note
+: 1725490510:0;h1
+: 1725490527:0;func
+: 1725490557:0;wslp(){\
+wslpath -w $PWD | cl\
+}\
+
+: 1725490560:0;wslp
+: 1725491433:0;norw
+: 1725491438:0;note
+: 1725649352:0;ln -s
+: 1725649361:0;ln --help
+: 1725649379:0;ln --help | nvim -
+: 1725661897:0;ytp
+: 1725661908:0;cd script
+: 1725661915:0;cd scripts
+: 1725661917:0;l
+: 1725661922:0;yv
+: 1725661937:0;sh yv
+: 1725763316:0;mps
+: 1725763317:0;l
+: 1725763327:0;mkcd wpdock
+: 1725763340:0;wget https://gist.githubusercontent.com/erikyuzwa/7411752ddcb95b09434aa88f38d91630/raw/5846a52d450b8814f9fd00eaa8a76d9cee6cf3d2/wordpress-6-2-2-docker-compose.yml
+: 1725763342:0;l
+: 1725763351:0;v wordpress-6-2-2-docker-compose.yml
+: 1725763377:0;docker --version
+: 1725763575:0;l
+: 1725763599:0;tar cvf wp.tar *
+: 1725763600:0;l
+: 1725763604:0;v wp.tar
+: 1725763614:0;fd -a wp.tar
+: 1725763621:0;fd -a wp.tar | cl
+: 1725763633:0;tmux
+: 1725763637:0;l
+: 1725763650:0;cd scripts
+: 1725763651:0;l
+: 1725763669:0;his
+: 1725763680:0;h1
+: 1725763730:0;tar cvf /mnt/c/projects/wpdock/wp.tar  *
+: 1725763751:0;h1
+: 1725763758:0;..
+: 1725763765:0;ld
+: 1725763769:0;h
+: 1725763783:0;h1
+: 1725763790:0;mps
+: 1725763794:0;cd wpdock
+: 1725763795:0;l
+: 1725763797:0;v wp.tar
+: 1725763943:0;type -f h
+: 1725763962:0;omz_history 1
+: 1725763969:0;type -f h
+: 1725763981:0;v 
+: 1725764009:0;func
+: 1725764025:0;source functions.sh
+: 1725764043:0;h
+: 1725764056:0;v functions.sh
+: 1725764071:0;h(){\
+  history 1  |cut -c 1-7 --complement | tail -n20\
+}\
+
+: 1725764072:0;h
+: 1725764082:0;v functions.sh
+: 1725764263:0;tar -cvf h.tar *
+: 1725764265:0;l
+: 1725764269:0;v h.tar
+: 1725764658:0;mps
+: 1725764661:0;fday
+: 1725764686:0;cd wpdock
+: 1725764700:0;docker compose up
+: 1725764761:0;l
+: 1725764793:0;mv wordpress-6-2-2-docker-compose.yml compose.yaml
+: 1725764798:0;docker compose up
+: 1725784569:0;curl -fsSL https://christitus.com/linux | sh
+: 1725829111:0;note
+: 1725829606:0;v
+: 1725829635:0;v /home/steff007/linuxtoolbox/neovim/titus-kickstart/init.lua:
+: 1725829661:0;h1
+: 1725829789:0;v
+: 1725829803:0;qqq
+: 1725829806:0;v
+: 1725829951:0;fd
+: 1725829961:0;fdi init
+: 1725829976:0;gst
+: 1725829986:0;rm -rf linuxtoolbox
+: 1725829994:0;v
+: 1725830006:0;gst
+: 1725830014:0;fd init
+: 1725830018:0;fdi init
+: 1725830099:0;cd .config
+: 1725830100:0;l
+: 1725830112:0;gst
+: 1725830129:0;l
+: 1725830142:0;cd nvim
+: 1725830144:0;ld
+: 1725830153:0;fd init
+: 1725830160:0;fdi i
+: 1725830167:0;fdi init
+: 1725830174:0;v nvim
+: 1725830187:0;cat nvim
+: 1725830199:0;trash nvim
+: 1725830202:0;l
+: 1725830203:0;v
+: 1725830215:0;gst
+: 1725830240:0;l
+: 1725830250:0;v
+: 1725831023:0;cd
+: 1725831040:0;rm -rf .config/nvim
+: 1725831043:0;v
+: 1725831062:0;rm -rf ~/.local/share/nvim\
+rm -rf ~/.local/state/nvim\
+rm -rf ~/.cache/nvim
+: 1725831065:0;v
+: 1725831263:0;sudo apt remove nvim -y
+: 1725831302:0;apt list 
+: 1725831309:0;apt list | rg vim
+: 1725831320:0;apt list | rg nvim
+: 1725831378:0;sudo snap remove --purge nvim
+: 1725831389:0;nvim
+: 1725831419:0;snap list
+: 1725831462:0;sudo apt purge nvim -y
+: 1725831475:0;h
+: 1725831490:0;snap install nvim
+: 1725831496:0;h1
+: 1725831509:0;snap install nvim
+: 1725831518:0;sudo snap install nvim
+: 1725831551:0;sudo snap install nvim --classic
+: 1725831609:0;nvim
+: 1725831729:0;cd .config
+: 1725831730:0;ld
+: 1725831752:0;md nvim
+: 1725831796:0;v
+: 1725831812:0;l
+: 1725831814:0;cd nvim
+: 1725831815:0;l
+: 1725831818:0;v init.vim
+: 1725831869:0;v
+: 1725831897:0;apt list | nvim -
+: 1725831914:0;cd ..
+: 1725831918:0;gst
+: 1725831931:0;..
+: 1725831933:0;gst
+: 1725831940:0;cd .config
+: 1725831942:0;gst
+: 1725831970:0;git add . && git commit -am "new init.vim"
+: 1725831973:0;gst
+: 1725831995:0;git add .
+: 1725831996:0;gst
+: 1725832006:0;cd ..
+: 1725832008:0;gst
+: 1725832013:0;git add .
+: 1725832019:0;git commit -am 'bad history'
+: 1725832021:0;gst
+: 1725832026:0;c
+: 1725832027:0;v
+: 1725832160:0;mc
+: 1725832164:0;cd Users
+: 1725832166:0;l
+: 1725832168:0;cd jimst
+: 1725832169:0;l
+: 1725832185:0;cd AppData/l
+: 1725832190:0;ls
+: 1725832196:0;cd ..
+: 1725832203:0;fdi key
+: 1725832211:0;fdi keybind
+: 1725832232:0;v jimst/AppData/Roaming/Code/User/keybindings.json
+: 1725832248:0;v jimst/OneDrive/dell 7490/all/vscode/keybindings.json
+: 1725832485:0;gst
+: 1725832488:0;..
+: 1725832493:0;cd Users
+: 1725832496:0;cd jimst
+: 1725832497:0;gst
+: 1725832501:0;fdi
+: 1725832531:0;ld
+: 1725832552:0;v .gitignore
+: 1725832573:0;fd
+: 1725832581:0;v .gitignore
+: 1725832658:0;fd
+: 1725832691:0;v .gitignore
+: 1725832708:0;fd
+: 1725832721:0;v .gitignore
+: 1725832729:0;fd
+: 1725832736:0;v .gitignore
+: 1725832778:0;fd
+: 1725832800:0;ld
+: 1725832875:0;fdi
+: 1725832887:0;v .gitignore
+: 1725832894:0;fd
+: 1725832923:0;func
+: 1725833218:0;nvim --version
+: 1725833239:0;v
+: 1725833351:0;snap list
+: 1725833360:0;btop
+: 1725833372:0;bare
+: 1725833385:0;fdi nvim
+: 1725833403:0;cd AppData/Local
+: 1725833408:0;l
+: 1725833412:0;nvim
+: 1725833458:0;mc
+: 1725833460:0;mps
+: 1725833467:0;l
+: 1725833487:0;lf
+: 1725833617:0;lf -doc
+: 1725833622:0;lf -doc | nvim -
+: 1725841355:0;vinit
+: 1725841423:0;set expandtab
+: 1725841707:0;vinit
+: 1725841724:0;v
+: 1725841760:0;vinit
+: 1725842407:0;snap list | tail -n +2 | cut -d' ' -f1 | xargs snap info --verbose | grep --color=never -E 'name|confinement'
+: 1725842421:0;btop
+: 1725842586:0;sudo snap install btop
+: 1725842603:0;snap help refresh
+: 1725842624:0;btop
+: 1725842712:0;sudo apt purge snapd && sudo apt install snapd
+: 1725842796:0;btop
+: 1725842799:0;h1
+: 1725842810:0;sudo snap install btop
+: 1725842881:0;btop
+: 1725842890:0;wi btop
+: 1725843008:0;wget https://github.com/aristocratos/btop/releases/download/v1.2.13/btop-x86_64-linux-musl.tbz
+: 1725843023:0;tar -xvf btop-x86_64-linux-musl.tbz
+: 1725843044:0;cd btop && ./install.sh
+: 1725843049:0;btop
+: 1725843126:0;c
+: 1725849669:0;mps
+: 1725849675:0;mkcd fb
+: 1725849679:0;l
+: 1725849681:0;pwd
+: 1725849694:0;qht
+: 1725849697:0;l
+: 1725852823:0;passes
+: 1725853006:0;git fetch
+: 1725853048:0;git remote -v
+: 1725853062:0;mc
+: 1725853064:0;cd all
+: 1725853066:0;gst
+: 1725853071:0;git remote -v
+: 1725853102:0;fd
+: 1725853105:0;fdi
+: 1725853112:0;fd
+: 1725853113:0;tree
+: 1725853128:0;..
+: 1725853133:0;mkcd all2
+: 1725853182:0;git clone git@github.com:wither7007/all_wsl.git
+: 1725853197:0;l
+: 1725853204:0;cd all_wsl
+: 1725853205:0;l
+: 1725853206:0;fdi
+: 1725853210:0;duh
+: 1725853244:0;tmux
+: 1725853248:0;mc
+: 1725853257:0;cd all
+: 1725853260:0;k
+: 1725853264:0;fd
+: 1725853282:0;mc
+: 1725853285:0;cd all
+: 1725853292:0;gst
+: 1725853303:0;fday
+: 1725853332:0;..
+: 1725853339:0;cd tar
+: 1725853343:0;md tar
+: 1725853347:0;cd tar
+: 1725853348:0;pc
+: 1725853358:0;cd /all
+: 1725853363:0;cd \all
+: 1725853367:0;cd ../all
+: 1725853382:0;h1
+: 1725853418:0;tar -cvf /mnt/c/tar *
+: 1725853431:0;tar -cvf /mnt/c/tar/all.tar *
+: 1725853481:0;mc
+: 1725853484:0;cd tar
+: 1725853484:0;l
+: 1725853487:0;v all.tar
+: 1725853504:0;mc
+: 1725853510:0;trash all
+: 1725853553:0;cd all
+: 1725853558:0;mkcd all
+: 1725853607:0;git clone git@github.com:wither7007/all_wsl.git .
+: 1725853625:0;l
+: 1725853628:0;fdi
+: 1725853631:0;note
+: 1725853641:0;gst
+: 1725853652:0;note
+: 1725853680:0;gst
+: 1725853708:0;git commit -am 'no streets' && git push
+: 1725853716:0;note
+: 1725853971:0;git fetch
+: 1725853978:0;note
+: 1725853989:0;gst
+: 1725853995:0;git pull
+: 1725854000:0;note
+: 1725854037:0;msinfo
+: 1725856559:0;\
+streets!\
+jessie\
+funiture?\
+
+: 1725856568:0;gpg --gen-key
+: 1725856646:0;passes
+: 1725856649:0;pass
+: 1725856652:0;passes
+: 1725856657:0;mc
+: 1725856663:0;cd all
+: 1725856666:0;cd note
+: 1725856671:0;passes
+: 1725856673:0;l
+: 1725856684:0;fd pas
+: 1725856693:0;v .gitignore
+: 1725856696:0;..
+: 1725856699:0;v .gitignore
+: 1725856711:0;pass
+: 1725856717:0;cd note
+: 1725856718:0;l
+: 1725856722:0;fd pa
+: 1725856725:0;fdi pa
+: 1725856741:0;..
+: 1725856744:0;fdi pass
+: 1725856752:0;cd ..
+: 1725856758:0;cd tar
+: 1725856760:0;l
+: 1725856762:0;v all.tar
+: 1725856862:0;tar -tzf 
+: 1725856866:0;tar -tzf all
+: 1725856873:0;l
+: 1725856879:0;tar -tzf all.tar
+: 1725856891:0;tar -tf all.tar
+: 1725856909:0;tar -tf all.tar | rg pass
+: 1725856947:0;tar -xf all.tar note/pass
+: 1725856948:0;l
+: 1725856954:0;cd note
+: 1725856955:0;l
+: 1725856958:0;v pass
+: 1725856989:0;l
+: 1725857004:0;v pass
+: 1725857018:0;gpg --gen-key
+: 1725857100:0;gpg -c pass
+: 1725857124:0;l
+: 1725857164:0;v pass.gpg
+: 1725857223:0;gpg pass.gpg
+: 1725857240:0;l
+: 1725857288:0;cat pass.gpg
+: 1725857296:0;v pass.gpg
+: 1725857302:0;v pass
+: 1725857385:0;man gpg
+: 1725857441:0;pgp --decrypt
+: 1725857450:0;h1
+: 1725857463:0;gpg --decrypt
+: 1725857472:0;l
+: 1725857484:0;gpg --decrypt pass.gpg
+: 1725857494:0;l
+: 1725857510:0;mv pass.gpg /mnt/c/all/note
+: 1725857515:0;all
+: 1725857518:0;cd note
+: 1725857519:0;l
+: 1725857522:0;gst
+: 1725857530:0;pgp --decrypt pass.gpg
+: 1725857534:0;his
+: 1725857546:0;gpg --decrypt pass.gpg
+: 1725857550:0;gpg --decrypt pass.gpg | nvim -
+: 1725857564:0;..
+: 1725857568:0;gst
+: 1725857590:0;git add . && git commit -am "gpg"
+: 1725857616:0;gst
+: 1725857622:0;git push
+: 1725857630:0;his
+: 1725857637:0;note
+: 1725857683:0;gst
+: 1725857690:0;git commit -am 'no streets' && git push
+: 1725859955:0;i3
+: 1725860859:0;jobs -p |awk '{print $3}'
+: 1725860869:0;jobs 
+: 1725860916:0;ps -a
+: 1725860940:0;func
+: 1725860963:0;wslp
+: 1725860968:0;func
+: 1725860995:0;pow
+: 1725861024:0;c
+: 1725861048:0;ye
+: 1725861052:0;yel
+: 1725861057:0;ytp
+: 1725861074:0;cd
+: 1725861076:0;cd scripts
+: 1725861077:0;l
+: 1725861081:0;v ye
+: 1725861097:0;yt-dlp
+: 1725861108:0;ye
+: 1725861111:0;l
+: 1725861115:0;sh ye
+: 1725861138:0;md /mnt/c/you
+: 1725861140:0;ye
+: 1725861147:0;ls ye
+: 1725861158:0;file ye
+: 1725861167:0;ls
+: 1725861170:0;l ye
+: 1725861180:0;sh ye
+: 1725861196:0;v ye
+: 1725861233:0;type -f fd
+: 1725861243:0;fdfind
+: 1725861248:0;v ye
+: 1725895137:0;docker run -it --rm -d -p 8080:80 --name web nginx
+: 1725895245:0;docker ls
+: 1725895279:0;docker ps
+: 1725895330:0;docker stop $(docker ps -a -q)
+: 1725895337:0;h1
+: 1725895342:0;docker run -it --rm -d -p 8080:80 --name web nginx
+: 1725895532:0;docker ps
+: 1725895545:0;h1
+: 1725895550:0;docker stop $(docker ps -a -q)
+: 1725895558:0;docker ps
+: 1725895560:0;h1
+: 1725895601:0;docker run -it -p 80:80 dockerfile/nginx /bin/bash
+: 1725895616:0;h1
+: 1725895643:0;docker run -it --rm -d -p 8080:80 --name web nginx /bin/bash
+: 1725895655:0;docker ps
+: 1725895708:0;h1
+: 1725895718:0;docker run -it --rm -d -p 8080:80 --name web nginx sh
+: 1725895727:0;h1
+: 1725895732:0;docker stop $(docker ps -a -q)
+: 1725895748:0;h1
+: 1725895753:0;docker run -it --rm -d -p 8080:80 --name web nginx sh
+: 1725895773:0;docker ps
+: 1725895787:0;h1
+: 1725895803:0;func
+: 1725895834:0;dstop(){\
+docker stop $(docker ps -a -q)\
+}\
+
+: 1725895837:0;dstop
+: 1725895889:0;ps
+: 1725895891:0;btop
+: 1725895918:0;c
+: 1725897348:0;gst
+: 1725897356:0;git add -i
+: 1726176703:0;git branch | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
+: 1726176932:0;git branch --show-current
+: 1726178554:0;cd script
+: 1726178561:0;cd scripts
+: 1726178562:0;l
+: 1726178565:0;fd ser
+: 1726178569:0;v dser
+: 1726178576:0;dser
+: 1726178604:0;sh dser
+: 1726178615:0;cd ..
+: 1726178618:0;md temp
+: 1726178621:0;cd -
+: 1726178623:0;l
+: 1726178628:0;sh dser
+: 1726178633:0;psa 
+: 1726178640:0;cat dser
+: 1726178647:0;npx serve
+: 1726178654:0;wi npx
+: 1726178660:0;wi npm
+: 1726178676:0;npm
+: 1726178690:0;e $PATH
+: 1726178703:0;e $PATH | nvim -
+: 1726178743:0;node
+: 1726178811:0;..
+: 1726178816:0;fdi npm
+: 1726178841:0;fdi npm | nvim -
+: 1726178854:0;cd .npm
+: 1726178856:0;l
+: 1726178861:0;cd ..
+: 1726178921:0;node -v
+: 1726178926:0;tmux
+: 1726178929:0;node -v
+: 1726178941:0;l
+: 1726178953:0;fd npm
+: 1726178958:0;fdi npm
+: 1726178983:0;fdi npm | nvim -
+: 1726179007:0;nvim
+: 1726179067:0;fdi npm | nvim -
+: 1726179134:0;fdh
+: 1726179155:0;fdi -tx npm
+: 1726179172:0;.nvm/versions/node/v20.17.0/lib/node_modules/npm/bin/npm
+: 1726179194:0;.nvm/versions/node/v22.8.0/lib/node_modules/npm/bin/npm
+: 1726179207:0;.nvm/versions/node/v22.8.0/lib/node_modules/npm/bin/npm.cmd
+: 1726179220:0;node
+: 1726179286:0;export PATH=/usr/local/share/npm/bin:$PATH
+: 1726179288:0;npm
+: 1726179293:0;node -v
+: 1726179297:0;qqq
+: 1726179408:0;node
+: 1726179412:0;tmux
+: 1726179415:0;node
+: 1726179486:0;which npm
+: 1726179566:0;apt list | nvim -
+: 1726179597:0;sudo apt update
+: 1726179718:0;apt list --upgradable
+: 1726179795:0;sudo apt-get dist-upgrade
+: 1726179840:0;h1
+: 1726179851:0;fdi -tx npm
+: 1726179878:0;sudo apt install nodejs
+: 1726179898:0;node
+: 1726179914:0;sudo apt autoremove
+: 1726179969:0;node
+: 1726179974:0;fdi -tx node
+: 1726179992:0;cd .nvm/versions/node/v22.8.0/bin
+: 1726179994:0;l
+: 1726179996:0;node
+: 1726180000:0;.node
+: 1726180006:0;v node
+: 1726180013:0;,q
+: 1726180020:0;..
+: 1726180024:0;.node
+: 1726180033:0;fdi -tx node
+: 1726180050:0;cd bin
+: 1726180051:0;l
+: 1726180053:0;tree
+: 1726180233:0;sudo apt-get remove nodejs\
+sudo apt-get remove npm
+: 1726180243:0;cd
+: 1726180245:0;sudo apt-get remove nodejs\
+sudo apt-get remove npm
+: 1726180267:0;l
+: 1726180272:0;v nodesource.list
+: 1726180307:0;rm -rf usr/local/bin/npm
+: 1726180329:0;sudo rm -rf /usr/local/bin/npm \
+sudo rm -rf /usr/local/share/man/man1/node* \
+sudo rm -rf /usr/local/lib/dtrace/node.d\
+rm -rf ~/.npm\
+rm -rf ~/.node-gyp\
+sudo rm -rf /opt/local/bin/node\
+sudo rm -rf /opt/local/include/node\
+sudo rm -rf /opt/local/lib/node_modules\
+sudo rm -rf /usr/local/lib/node*\
+sudo rm -rf /usr/local/include/node*\
+sudo rm -rf /usr/local/bin/node*
+: 1726180405:0;sudo apt-get remove nodejs npm node\
+sudo apt-get purge nodejs
+: 1726180407:0;cd
+: 1726180409:0;sudo apt-get remove nodejs npm node\
+sudo apt-get purge nodejs
+: 1726180471:0;sudo apt update
+: 1726180586:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+: 1726180594:0;nvm
+: 1726180608:0;exit
+: 1726180610:0;qqq
+: 1726180614:0;tmux
+: 1726180616:0;nvm
+: 1726180628:0;nvm install node
+: 1726180635:0;node
+: 1726180643:0;npm
+: 1726180647:0;npx
+: 1726180657:0;npx serve
+: 1726180729:0;node -v
+: 1726180737:0;cd scripts
+: 1726180738:0;l
+: 1726180744:0;fd ser
+: 1726180748:0;dser
+: 1726180753:0;sh dser
+: 1726180759:0;v dser
+: 1726180764:0;npx serve . > ~/temp/output.log 2>&1 &
+: 1726180775:0;l
+: 1726180781:0;psa
+: 1726180810:0;l
+: 1726180816:0;uns
+: 1726180826:0;e $PATH | nvim -
+: 1726180844:0;hq
+: 1726180846:0;h1
+: 1726180880:0;export PATH=/usr/local/share/npm/bin:~/scripts/$PATH
+: 1726180883:0;e $PATH | nvim -
+: 1726180913:0;v .zshrc
+: 1726180915:0;cd
+: 1726180917:0;v .zshrc
+: 1726180965:0;qqq
+: 1726180975:0;e $PATH | nvim -
+: 1726180991:0;h1
+: 1726181090:0;export PATH=$PATH:/home/steff007/scripts
+: 1726181093:0;dser
+: 1726181105:0;cd scripts
+: 1726181106:0;l
+: 1726181116:0;chmod -x dserv
+: 1726181119:0;fd ser
+: 1726181123:0;chmod -x dser
+: 1726181125:0;dser
+: 1726181131:0;ls dser
+: 1726181137:0;lt dser
+: 1726181179:0;chmod +x dser
+: 1726181181:0;dser
+: 1726181186:0;psa
+: 1726181216:0;kill 9520
+: 1726181227:0;kill 7520
+: 1726181230:0;psa
+: 1726181297:0;l
+: 1726181302:0;cd scripts
+: 1726181306:0;l
+: 1726181314:0;l | nvim -
+: 1726181325:0;h1
+: 1726181349:0;ls | xargs chmod +x
+: 1726181351:0;l
+: 1726181365:0;yv
+: 1726181379:0;cd
+: 1726181382:0;l
+: 1726181384:0;gst
+: 1726181400:0;git add . && git commit -am "nvm"
+: 1726181401:0;gst
+: 1726181407:0;cd scripts
+: 1726181409:0;gst
+: 1726181412:0;winf
+: 1726181417:0;l
+: 1726181428:0;git add . && git commit -am "exec"
+: 1726181431:0;l
+: 1726181435:0;gst
+: 1726181442:0;git push
+: 1726181449:0;gst
+: 1726181452:0;cd ..
+: 1726181453:0;l
+: 1726181457:0;v h.tar
+: 1726181475:0;func
+: 1726181497:0;h1
+: 1726181512:0;v .zshrc
+: 1726181539:0;qqq
+: 1726181546:0;psa
+: 1726181552:0;e $PATH | nvim -
+: 1726181559:0;dser
+: 1726181563:0;psa
+: 1726181570:0;kill 9140
+: 1726181598:0;duh
+: 1726181611:0;ld
+: 1726181619:0;cd d
+: 1726181620:0;l
+: 1726181625:0;cd ..
+: 1726181626:0;l
+: 1726181792:0;dser
+: 1726181795:0;psa
+: 1726181808:0;kill 9366
+: 1726181824:0;gst
+: 1726182915:0;npm list -g
+: 1726182926:0;npm --version
+: 1726183046:0;func
+: 1726183069:0;wslp
+: 1726183188:0;fund
+: 1726183191:0;func
+: 1726183199:0;wslp(){\
+wslpath -w $PWD | clip\
+}\
+
+: 1726183204:0;wslp
+: 1726183215:0;ls | clip.exe
+: 1726183220:0;func
+: 1726183234:0;wslp(){\
+wslpath -w $PWD | clip.exe\
+}\
+
+: 1726183237:0;wslp
+: 1726183264:0;mc
+: 1726183267:0;cd all/
+: 1726183276:0;fd -eahk
+: 1726183280:0;cd note
+: 1726183282:0;v first.ahk
+: 1726183417:0;mc
+: 1726183421:0;cd all/note
+: 1726183422:0;l
+: 1726183434:0;first.ahk
+: 1726183439:0;l
+: 1726183657:0;mps
+: 1726183659:0;l
+: 1726183666:0;cd one
+: 1726183669:0;l
+: 1726183672:0;dser
+: 1726183691:0;func
+: 1726183940:0;grep -E -w '22/(tcp|udp)' /etc/services
+: 1726183965:0;sudo netstat -tulpn | grep LISTEN
+: 1726184045:0;myip
+: 1726184076:0;ssp
+: 1726184099:0;sudo netstat -tulpn | grep LISTEN
+: 1726184154:0;func
+: 1726184177:0;cd scripts
+: 1726184180:0;fd tupln
+: 1726184183:0;l
+: 1726184186:0;cat work
+: 1726184197:0;rg tupln
+: 1726184200:0;rg echo
+: 1726184237:0;rg tup
+: 1726184248:0;h1
+: 1726184255:0;sudo netstat -tulpn | grep LISTEN
+: 1726184271:0;h1
+: 1726184280:0;netstat -tulpn | grep LISTEN
+: 1726184287:0;func
+: 1726184310:0;listen(){\
+netstat -tulpn | grep LISTEN\
+}\
+
+: 1726184315:0;listeb
+: 1726184320:0;listen
+: 1726184344:0;exit
+: 1726184351:0;listen
+: 1726184383:0;psa
+: 1726184394:0;kill 9169
+: 1726184400:0;listen
+: 1726184411:0;psa
+: 1726184525:0;kill 9395
+: 1726184527:0;l
+: 1726184530:0;psa
+: 1726184546:0;exit
+: 1726184551:0;wslp
+: 1726184589:0;mc
+: 1726184597:0;all
+: 1726184601:0;v first.ahk
+: 1726184604:0;l
+: 1726184609:0;cd note
+: 1726184610:0;l
+: 1726184612:0;v first.ahk
+: 1726184721:0;mps
+: 1726184722:0;l
+: 1726184727:0;cd grid
+: 1726184728:0;l
+: 1726184730:0;dser
+: 1726184763:0;v ~/scripts/dser
+: 1726184773:0;psa
+: 1726184782:0;kill 12356
+: 1726184789:0;psa | nvim -
+: 1726184845:0;kill  12284\
+kill  12313\
+
+: 1726184847:0;psa
+: 1726184920:0;npx serve
+: 1726185655:0;l
+: 1726185657:0;psa
+: 1726185662:0;dser
+: 1726185672:0;v index.html
+: 1726185736:0;code .
+: 1726187005:0;notes
+: 1726187006:0;note
+: 1726187012:0;gst
+: 1726187027:0;git add . && git commit -am "exec" && gitpush
+: 1726187034:0;gst
+: 1726187044:0;git remote -v
+: 1726187054:0;mc
+: 1726187057:0;note
+: 1726187066:0;all
+: 1726187070:0;git log
+: 1726187097:0;glog
+: 1726187108:0;git checkout 5fe821e11a84b0ce2ce357faea5576a41686a0f1
+: 1726187117:0;git stash
+: 1726187123:0;git checkout 5fe821e11a84b0ce2ce357faea5576a41686a0f1
+: 1726187125:0;note
+: 1726187148:0;git swith -
+: 1726187156:0;git switch -
+: 1726187217:0;gst
+: 1726187240:0;git stash apply
+: 1726187243:0;gst
+: 1726187263:0;git add . && git commit -am "exec" && gitpush
+: 1726187270:0;git add . && git commit -am "exec" && git push
+: 1726187276:0;git push
+: 1726187281:0;gst
+: 1726187292:0;glog
+: 1726187321:0;git checkout 8b48e35919d09b96e451e541b57ed12fbc8137d0
+: 1726187325:0;note
+: 1726187361:0;git switch -
+: 1726187363:0;note
+: 1726272664:0;i3
+: 1726276582:0;mps
+: 1726276587:0;mkcd gits
+: 1726276593:0;git clone git@github.com:bradtraversy/50projects50days.git
+: 1726276599:0;ld
+: 1726276612:0;mv 50projects50days 50
+: 1726276613:0;l
+: 1726276616:0;cd 50
+: 1726276618:0;ld
+: 1726276625:0;cd simple-timer
+: 1726276626:0;l
+: 1726276634:0;v *
+: 1726276652:0;v script.js
+: 1726276672:0;v style.css
+: 1726276684:0;dser
+: 1726276699:0;psa
+: 1726276724:0;kill 15453
+: 1726276726:0;psa
+: 1726276741:0;kill all
+: 1726276745:0;func
+: 1726276757:0;nkill
+: 1726276759:0;psa
+: 1726276762:0;l
+: 1726276764:0;dser
+: 1726276765:0;psa
+: 1726276956:0;curl view-source:http://localhost:3000/
+: 1726276960:0;h1
+: 1726276980:0;curl http://localhost:3000/
+: 1726276995:0;curl http://localhost:3000/ | nvim -
+: 1726277049:0;wget https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+: 1726277051:0;l
+: 1726277054:0;v all.min.css
+: 1726277174:0;npx
+: 1726277192:0;npx cssunminifier all.min.css a.css
+: 1726277200:0;l
+: 1726277209:0;v a.css
+: 1726277387:0;code .
+: 1726280730:0;note
+: 1726281158:0;all
+: 1726281164:0;l
+: 1726281169:0;rg van
+: 1726281175:0;rg vang
+: 1726281181:0;l
+: 1726440191:0;ld
+: 1726440196:0;mps
+: 1726440197:0;l
+: 1726440200:0;cd gits
+: 1726440201:0;l
+: 1726440206:0;cd 50
+: 1726440207:0;l
+: 1726440217:0;cd todo-list
+: 1726440219:0;l
+: 1726440222:0;dser
+: 1726440233:0;tupln
+: 1726440238:0;func
+: 1726440245:0;listen
+: 1726440256:0;nkill
+: 1726440261:0;listen
+: 1726440281:0;dser
+: 1726440283:0;listen
+: 1726440293:0;l
+: 1726440296:0;listen
+: 1726440693:0;curl http://localhost:3000/style.css | nvim -
+: 1726454206:0;down
+: 1726454207:0;l
+: 1726454214:0;lts
+: 1726454224:0;l
+: 1726454237:0;mv magic-flip-cards-1-the-standard-implementation.zip flip.zip
+: 1726454247:0;unzip flip.zip
+: 1726454248:0;l
+: 1726454258:0;mv magic-flip-cards-1-the-standard-implementation flip
+: 1726454263:0;cd flip
+: 1726454264:0;l
+: 1726454273:0;cd src
+: 1726454273:0;l
+: 1726454278:0;v index.html
+: 1726454283:0;v style.scss
+: 1726454361:0;sass sass/main.scss:css/main.css
+: 1726454553:0;npm install -g sass
+: 1726454561:0;l
+: 1726454569:0;sass
+: 1726454572:0;l
+: 1726454578:0;s
+: 1726454584:0;sass style.scss
+: 1726454596:0;sass style.scss > style.css
+: 1726454601:0;vdiff
+: 1726454603:0;l
+: 1726454618:0;vdiff style.scss style.css
+: 1726454657:0;v style.css
+: 1726454687:0;v style.scss
+: 1726455107:0;gitlg
+: 1726455112:0;gst
+: 1726455116:0;..
+: 1726455117:0;gst
+: 1726455121:0;c
+: 1726455123:0;cd
+: 1726455127:0;h1
+: 1726455138:0;gitlg
+: 1726455171:0;gdiff
+: 1726455177:0;gst
+: 1726455184:0;gdiff
+: 1726455203:0;git add . && git commit -am "exec" && git push
+: 1727161470:0;gst
+: 1727161488:0;git pop
+: 1727161501:0;git stash pop
+: 1727161533:0;v
+: 1727161546:0;git stash pop
+: 1727161568:0;gst
+: 1727161576:0;v .gitignore
+: 1727161587:0;ls -a
+: 1727161590:0;pwd
+: 1727161595:0;fdi git
+: 1727161609:0;fdi "it"
+: 1727161614:0;gst
+: 1727161628:0;git add . && git commit -am "reset" && git push
+: 1727161637:0;git add .
+: 1727161640:0;gst
+: 1727161679:0;git stash list
+: 1727161740:0;fd 'rc'
+: 1727161756:0;fd '*rc'
+: 1727161763:0;type -f fd
+: 1727161770:0;fd -tf
+: 1727161775:0;fd -tf -d1
+: 1727161781:0;qqq
+: 1727161794:0;fd
+: 1727161798:0;fd -d1
+: 1727161805:0;fdi -d1
+: 1727161816:0;gst
+: 1727161824:0;git stash pop
+: 1727161838:0;v .zshrc
+: 1727161866:0;v .bashrc
+: 1727161906:0;gst
+: 1727161919:0;git add .
+: 1727161920:0;gst
+: 1727161925:0;git commit -am 'no streets' && git push
+: 1727161930:0;git commit -am 'no streets'
+: 1727161935:0;gst
+: 1727161950:0;fd zsh
+: 1727161958:0;fd rc
+: 1727161966:0;fd "rc*"
+: 1727161989:0;fd -tf "rc"
+: 1727162011:0;fdi "rc*"
+: 1727162038:0;fdi "bash"
+: 1727162064:0;v .bashrc
+: 1727162071:0;rg history
+: 1727162092:0;fdi "bash"
+: 1727162103:0;mc
+: 1727162105:0;all
+: 1727162107:0;l
+: 1727162113:0;fdi "bash"
+: 1727162122:0;v .bashrc
+: 1727162140:0;v .z
+: 1727162147:0;fdi 'z'
+: 1727162154:0;v .zshrc
+: 1739994607:0;ls
+: 1739994612:0;exit
+: 1739994623:0;cd
+: 1739994624:0;l
+: 1739994630:0;ls
+: 1739994631:0;als
+: 1739994647:0;source alias
+: 1739994660:0;v .zshrc
+: 1739994680:0;func
+: 1739994687:0;./functions.sh
+: 1739994690:0;func
+: 1739994704:0;fun
+: 1739994721:0;wi fun
+: 1739994735:0;v functions.sh
+: 1739994747:0;func()\
+{\
+  nvim ~/functions.sh\
+}\
+
+: 1739994749:0;func
+: 1739994757:0;v
+: 1739994762:0;wi v
+: 1739994781:0;type -f v
+: 1739994791:0;nvim
+: 1739994800:0;v
+: 1739994807:0;v functions.sh
+: 1739994812:0;mp
+: 1739994817:0;./functions.sh
+: 1739994818:0;mp
+: 1739994825:0;v functions.sh
+: 1739994833:0;mp() {\
+ps -aux | sort | awk '{print $1, $2, $11, $12}' | rg -v 'snap' | nvim\
+}\
+
+: 1739994834:0;mp
+: 1739994867:0;hn
+: 1739994876:0;wi v
+: 1739994885:0;tf v
+: 1739994891:0;type -f v
+: 1739994907:0;/opt/nvim-linux64/bin/nvim
+: 1739994912:0;func
+: 1739994917:0;v
+: 1739994972:0;alias 'nvim' ='/opt/nvim-linux64/bin/nvim'
+: 1739994981:0;nvim
+: 1739994989:0;func
+: 1739994997:0;v functions.sh
+: 1739995023:0;type -f v
+: 1739995027:0;type -f nvim
+: 1739995044:0;alias 'nvim' ='/opt/nvim-linux64/bin/nvim'
+: 1739995046:0;nvim
+: 1739995053:0;tf nvim
+: 1739995058:0;type -f nvim
+: 1739995065:0;alias 'nvim' ='/opt/nvim-linux64/bin/nvim'
+: 1739995068:0;nvim
+: 1739995121:0;ehiss
+: 1739995123:0;ehis
+: 1739995166:0;alias nvim ="/opt/nvim-linux64/bin/nvim"
+: 1739995168:0;nvim
+: 1739995238:0;exit
+: 1739995252:0;tmux
+: 1739995259:0;cd
+: 1739995266:0;v .zshrc
+: 1739995278:0;exit
+: 1739995280:0;exi
+: 1739995283:0;esit
+: 1739995286:0;qqq
+: 1739995296:0;nvim
+: 1739995314:0;func
+: 1739995320:0;v ~/functions.sh
+: 1739995361:0;exit
+: 1739995370:0;nvim
+: 1739995377:0;func
+: 1739995395:0;v ~/functions.sh
+: 1739995415:0;tf w
+: 1739995424:0;~/functions.sh
+: 1739995427:0;tf
+: 1739995435:0;cd
+: 1739995439:0;v functions.sh
+: 1739995445:0;dfc
+: 1739995449:0;./functions.sh
+: 1739995454:0;dfc
+: 1739995461:0;v functions.sh
+: 1739995477:0;dfc() {\
+fd -tf -d1 | column\
+}\
+
+: 1739995479:0;dfc
+: 1739995497:0;myinstall(){\
+  nvim /mnt/c/proj/install\
+}\
+nvim(){\
+/opt/nvim-linux64/bin/nvim\
+}\
+mypath(){\
+echo "$PATH" | tr ':' '\n' | v -\
+}\
+mp() {\
+ps -aux | sort | awk '{print $1, $2, $11, $12}' | rg -v 'snap' | nvim\
+}\
+dfc() {\
+fd -tf -d1 | column\
+}\
+ddc() {\
+fd -td -d1 | column\
+}\
+tl(){\
+tldr "$1" | nvim -\
+}\
+icon() {\
+wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg\
+}\
+ckill()\
+{\
+  printf '%s\n' "pgrep caddy | xargs kill -9"\
+pgrep caddy | xargs kill -9\
+}\
+twit() {\
+cd /mnt/c/twit \
+}\
+\
+lasta(){\
+ls -lu "$1" | awk '{print $6, $7, $8, $9}'\
+}\
+dds(){\
+  nvim /mnt/c/proj/dock/dd\
+}\
+fr(){\
+f2 | awk '{print  $5 "\t " $6 " " $7 "\t" $8 "\t" $9}'\
+}\
+yaud(){\
+yt-dlp -x --audio-format mp3 "$1"\
+}\
+spoke(){\
+  cd /mnt/c/you/spoken\
+}\
+dockr(){\
+  nvim /mnt/c/proj/dock/dock2\
+}\
+you(){\
+  cd /mnt/c/you\
+}\
+ytd(){\
+yt-dlp -o '%(title)s by %(uploader)s on %(upload_date)s in %(playlist)s.%(ext)s' "$1"\
+yt-dlp --dump-json "$1" | jq ' .id, .title, .description' | sed 's/\\n/\n/g'  > json\
+}\
+\
+winhi(){\
+  cd /mnt/c/Users/jimst/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine\
+}\
+gitv(){\
+  gh repo view "$1"\
+}\
+mygits(){\
+gh repo list wither7007 | awk '{print $1}' > list\
+gh repo list wither7007 | awk '{print $1}'\
+}\
+\
+alias gignore="wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/.gitignore"\
+#yt-dlp --dump-json https://www.youtube.com/watch\?v\=oj_K7OKYmgo | jq . | nvim -\
+export FZF_DEFAULT_COMMAND='fd . -tf -d 1 '\
+#fdi()\
+#{\
+#  printf '%s\n' "fd  -H -I "\
+#  fd  -H -I\
+#}\
+lser(){\
+npx live-server&\
+}\
+ff(){\
+  f2 | awk '{print $9}' | sort\
+}\
+gfiles(){\
+  #shows files included in git repo\
+  git ls-tree --full-tree -r --name-only HEAD\
+}\
+i3(){\
+  cd /mnt/c/projects/python \
+  ipython \
+}\
+# https://www.reddit.com/r/bash/comments/z6vhvv/printf_with_colour_using_variable/\?rdt\=37139\
+ainstalled(){\
+  sudo apt list --installed\
+}\
+nuke(){\
+  printf '%s\n' "find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 trash -R"\
+  find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R\
+}\
+my_color() {\
+	local -r color="${1}"\
+	case "${color}" in\
+		'red')\
+			printf '%b' '\e[1;31m'\
+			;;\
+		'green')\
+			printf '%b' '\e[1;32m'\
+			;;\
+		'yellow')\
+			printf '%b' '\e[1;33m'\
+			;;\
+		*)\
+			>&2 printf 'INVALID COLOR'\
+	esac\
+	shift\
+	"${@}"\
+	printf '%b' '\e[0m'\
+#my_color yellow printf '%s\n' "yellow"\
+}\
+gita (){\
+  printf '%s\n' "git add . && git commit -m "$1""\
+  git add . && git commit -m "$1"\
+}\
+tf(){\
+  type -f "$1"\
+}\
+untrack(){\
+  git ls-files --others --exclude-standard\
+}\
+dockers(){\
+docker ps -a\
+}\
+dstop(){\
+docker stop "$(docker ps -a -q)"\
+}\
+\
+dr(){\
+  docker run -i -t "$1"\
+}\
+dkill(){\
+  docker kill $(docker ps -q)\
+}\
+\
+mc(){\
+cd /mnt/c || exit\
+}\
+wpath(){\
+printf '%s\n' "wslpath -w "$(pwd)" | clip.exe"\
+wslpath -w "$(pwd)" \
+wslpath -w "$(pwd)" | clip.exe\
+}\
+myip(){\
+curl ifconfig.me\
+}\
+fdh(){\
+  /usr/bin/fdfind --help | nvim \
+}\
+fdm(){\
+  fd -H -I --ignore-file ~/.fdignore\
+}\
+gitfiles(){\
+git ls-files\
+}\
+listen(){\
+netstat -tulpn | grep LISTEN\
+}\
+wslp(){\
+wslpath -w "$PWD" | clip.exe\
+}\
+all(){\
+  cd /mnt/c/all || exit\
+}\
+hst()\
+{  \
+  history -"$1" -1\
+}\
+hh(){\
+  history | tail -n25 | uniq\
+}\
+env() \
+{\
+  printenv | nvim\
+}\
+\
+hs() \
+{\
+hst 200| tac | nvim -\
+}\
+\
+func()\
+{\
+  nvim ~/functions.sh\
+}\
+myb()\
+{\
+esbuild "$1"  --platform=node --target=esnext --outdir=build --format=cjs\
+}\
+nkill()\
+{\
+  printf '%s\n' "pgrep node | xargs kill -9"\
+pgrep node | xargs kill -9\
+}\
+\
+jser()\
+{\
+fdm -ejs | xargs -r rg -i --max-count 2 "$1"\
+}\
+\
+gitweb()\
+{\
+#py script to web format git remote -v \
+#depends on /mnt/c/projects/script/gitr.py\
+gitr.py $"(git ls-remote --get-url)"\
+}\
+gitp()\
+  #quick commit and push\
+{\
+git add -A && git commit  -am "more example" && git push\
+}\
+wintol()\
+{\
+printf '%s\n' "C:\Users\YourUsername" | sed 's.C:.mnt\/c.' | sed 's.\\./.g'\
+}\
+allBigs(){\
+  #general find bigg file\
+(cd /mnt/c && fdi --size +30m -x ls -lhrt  > /mnt/c/all/bigC 2>&1 &)\
+}\
+myr(){\
+  nvim /mnt/c/projects/recent.txt\
+}\
+lintow() {\
+  #send linux file path to window vim\
+#  printf '%s\n' "$1"\
+#  printf '%s\n' "$1" | sed 's.C:./mnt/c.g' | sed 's.\\./.g'\
+#wintoL $(fd -a iv)\
+printf "$(fdm -a $1)" | sed 's|\/mnt\/c|c\:|' | sed 's|\/|\\|g' | nvim -\
+}\
+\
+bigGit() {\
+  #crazy function to find big git commit\
+git rev-list --objects --all |\n  git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | sed -n 's/^blob //p' | sort --numeric-sort --key=2 | cut -c 1-12,41- | $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest \
+}\
+\
+hl(){\
+  "$1"  --help | nvim -\
+}\
+big() {\
+  (fdi --size +10m | xargs ls -lhrt | awk '{ print $5 " :  " $9 }' >big)\
+}\
+revparse() {\
+  printf '%s\n' "git rev-parse --abbrev-ref head --show-toplevel"\
+  git rev-parse --abbrev-ref HEAD --show-toplevel\
+}\
+psa() {\
+  printf '%s\n' "ps -a"\
+  ps -a\
+}\
+kills() {\
+  ps aux | awk '{print $11 $12 $13 "     kill -9 " $2 }' | nvim -\
+}\
+dud() {\
+  (duh >"$(date | sed 's/\s/_/g' | sed 's/_C.*//g')".txt 2>&1 &)\
+}\
+duc() {\
+  (du -sh -- * | sort -rh >"/mnt/c/all/$(date | sed 's/\s/_/g' | sed 's/_C.*//g')".txt 2>&1 &)\
+}\
+killst() {\
+  pgrep node | xargs kill -9 && (npm run server >jserver.txt 2>&1 &)\
+}\
+pkill() {\
+  pgrep "$1" | xargs kill -9\
+}\
+mcut() {\
+  printf '%s\n' 'ffmpeg -ss 90 -i "$1" -acodec copy o$1'\
+  ffmpeg -ss "$1" -i "$2" -acodec copy o"$1"\
+}\
+dpost() {\
+  cat db.json | jq 'del(.posts[] )' >temp && mv temp db.json\
+}\
+lsd() {\
+  ls "$1" -lshrt\
+}\
+\
+pretty () {\
+	npx js-beautify "$1" > tempx && mv tempx "p$1" && sed -i '/^\s*$/d' "p$1"\
+}\
+\
+tid() {\
+  tidy "$1" >temp || mv temp "$1"\
+}\
+unq() {\
+  awk '!a[$0]++' "$1" >testfile.tmp && mv testfile.tmp "$1"\
+}\
+tw() {\
+  fdm --changed-within="$1"days | xargs ls -lhrt | awk '{ print $9 ": " $6 " " $7 " " $8}' | sort -k3\
+}\
+pass(){\
+nvim /mnt/c/temp/pass\
+}\
+\
+form() {\
+  fmt -w 120 "$1" | nvim -\
+}\
+myman() {\
+  cht.sh "$1" | perl -pe 's/\e([^\[\]]|\[.*?[a-zA-Z]|\].*?\a)//g' | nvim -\
+}\
+ppath() {\
+  echo "$PATH" | perl -pe 's/:/\n/g' | sort #! split path"\
+}\
+ds() {\
+  dirs -p >>~/xd\
+}\
+dsc() {\
+  awk '!a[$0]++' ~/xd >~/testfile.tmp && mv ~/testfile.tmp ~/xd | sed 's/^/cd /g' ~/xd | nvim -\
+}\
+pql() {\
+  echo "PGPASSWORD=stars1  psql -h localhost -p 5432 -U steff007 tempdb"\
+  PGPASSWORD=stars1 psql -L output.txt -h localhost -p 5432 -U steff007 tempdb\
+}\
+\
+pqle() {\
+  echo "PGPASSWORD=stars1  psql -h localhost -p 5432 -U steff007 tempdb"\
+  PGPASSWORD=stars1 psql -L nOutput.txt -E -h localhost -p 5432 -U steff007 tempdb\
+}\
+gitinit() {\
+  gignore\
+  k='git init -b main && git add -A && git commit -m "Initial commit"'\
+  echo "$k"\
+  bash -c "$k"\
+}\
+qm() {\
+  ps -A --sort -rss -o comm,pmem | awk '\
+  NR == 1 { print; next }\
+  { a[$1] += $2 }\
+  END {\
+    for (i in a) {\
+      printf "%-15s\t%s\n", i, a[i] | "sort -rnk2";\
+    }\
+  }\
+'\
+}\
+deleteall() {\
+  k='find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -rf'\
+  echo "$k"\
+  bash -c "$k"\
+}\
+pyse() {\
+  fd -a -epy -E mcoding | xargs rg "$1"\
+}\
+qht() {\
+  k="wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/index.html && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/style.css && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/script.js && wget https://raw.githubusercontent.com/wither7007/htmlTemplate/main/html/.gitignore && wget 'https://raw.githubusercontent.com/wither7007/htmlTemplate/refs/heads/main/favicon.svg' -O favicon.svg"\
+  bash -c "$k"\
+}\
+\
+lib() {\
+\
+  echo 21972086245722 | clip.exe\
+}\
+\
+rec() {\
+  fdi --changed-within="$1"days --ignore-file ~/.fdignore | sort | awk '{ FS = "\\/" } ; { print $1 }' | uniq\
+}\
+\
+frec() {\
+  fdm --changed-within="$1"hours -x ls -lhr | cut -d' ' -f5-13\
+}\
+\
+recf() {\
+  fd -H -I --changed-within="$1"hours --ignore-file ~/.fdignore -x ls -lhr | cut -d' ' -f5-13\
+}\
+cputest() {\
+  sysbench cpu run >~/cputest/"$(date | sed 's/\s/_/g' | sed 's/_C.*//g')"cpu.txt\
+}\
+\
+\
+f4() {\
+  echo "fd -a -tf --ignore-file ~/.fdignore --changed-within 4d | xargs -r ls -lhrt"\
+  fd -I -a -tf --ignore-file ~/.fdignore --changed-within 4d | xargs -r ls -lhrt\
+}\
+f2() {\
+  echo "fd -a -tf --ignore-file ~/.fdignore --changed-within 2d | xargs -r ls -lhrt"\
+  fd -I -a -tf --ignore-file ~/.fdignore --changed-within 2d | xargs -r ls -lhrt\
+}\
+\
+f1() {\
+  echo "fd -a -tf --ignore-file ~/.fdignore --changed-within 1d | xargs -r ls -lhrt"\
+  fd -I -a -tf --ignore-file ~/.fdignore --changed-within 1d | xargs -r ls -lhrt\
+}\
+wind() {\
+  fdi --ignore-file ~/.fdignore -a -d 2 "$1" | sed 's|\/mnt\/c|c\:|' | sed 's|\/|\\|g' | nvim -\
+}\
+winfile() {\
+  #convert linux name win for one arg\
+  fd -a "$1" | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g'\
+  fd -a "$1" | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g' | cl\
+}\
+ltv() {\
+  ls -lhrt | awk '{print $9}' | nvim -\
+}\
+winfi() {\
+  fdm -d 1 -a books.html | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g'\
+  fd -d 1 -a "$1" | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g' | cl\
+}\
+ltvs() {\
+  ls -lhrt | awk '{print $9, "--" $5}' | nvim -\
+}\
+esc() {\
+  cat "$1" | sed "s,\x1B\[[0-9;]*[a-zA-Z],,g" | nvim -\
+}\
+myst() {\
+  stat "$1" --format='acc: %x mod: %y  change: %z'\
+}\
+sq3() {\
+  sqlite3 "$1" -cmd ".tables" -cmd ".mode column"\
+}\
+deci() {\
+  echo "$1" | rev | sed -E 's/([0-9]{3})/\1,/g' | rev\
+}\
+exd() {\
+  exiftool -j "$1" | jq '.[0] | { Description }' | sed 's/\\n/\n/g' | v - #!good description\
+}\
+\
+pyclean() {\
+  find . -type f -name "*.py[co]" -delete\
+  find . -type d -name "__pycache__" -delete\
+}\
+gitree() {\
+  echo "git log --oneline --graph --decorate --all"\
+  git log --oneline --graph --decorate --all\
+}\
+#https://shallowsky.com/blog/linux/cmdline/sed-insert-commas.html\
+vman() {\
+  man "$1" | nvim -\
+}\
+windir() {\
+  pwd | sed 's.\/mnt\/c.c\:.' | sed 's.\/.\\.g' | nvim -\
+}\
+se() { history | rg -i "$1"; }\
+manv() { man "$1" | nvim -; }\
+gith() { git help "$1" | v -c 'set nonumber' -; }\
+#wi () { whereis "$1"}\
+ex() { exiftool -j "$1" | v -; }\
+\
+gith() {\
+  git "$1" --help | nvim -\
+}\
+take() { mkdir -p -- "$1" && cd -P -- "$1" || exit; }\
+rgg() { rg "$1" /mnt/c/all/gcloud_his "$HISTFILE"; }\
+\
+chah() {\
+  fd -H -I -tf -L --changed-within="$1"hours | rg -v "tld|conf|\.git|hyp|cache|\.local" | xargs stat -c "%n   %.19z" | sort | sed -e "s/[0-9]*\:.*00\///g"\
+}\
+cham() {\
+  fdm -tf -L --changed-within="$1"minutes |  xargs stat -c "%y/%n" | sort | sed -e "s/[0-9]*\:.*00\///g"\
+}\
+hit() {\
+  history | tail -n 20\
+}\
+\
+#https://raw.githubusercontent.com/nickjj/dotfiles/master/.config/zsh/.aliases\
+vdiff() {\
+  if [ "${#}" -ne 2 ]; then\
+\
+    printf "vdiff requires two arguments"\
+    echo "  comparing dirs:  vdiff dir_a dir_b"\
+    echo "  comparing files: vdiff file_a file_b"\
+    return 1\
+  fi\
+\
+  local left="${1}"\
+  local right="${2}"\
+\
+  if [ -d "${left}" ] && [ -d "${right}" ]; then\
+    nvim +"DirDiff ${left} ${right}"\
+  else\
+    nvim -d "${left}" "${right}"\
+  fi\
+}\
+\
+gits() {\
+  printf '%s\n' "git status -vv | v -"\
+  read -r\
+  git status -vv | nvim -\
+}\
+\
+glst() {\
+  printf '%s\n' "git log --stat | vim -"\
+  read -r\
+  #git log --stat | nvim -\
+}\
+he() {\
+  eval '$1 --help | nvim -'\
+}\
+\
+hisf() {\
+  omz_history | cut -c 1-7 --complement >~/hf\
+}\
+\
+awsq() {\
+  #awk '!a[$0]++' ~/.sqlite_history > testfile.tmp && mv testfile.tmp ~/.sqlite_history\
+  nvim ~/.sqlite_history -c "normal Gzz"\
+}\
+phis() {\
+  nvim ~/.python_history -c "normal Gzz"\
+}\
+nh() {\
+  nvim ~/.node_repl_history\
+}\
+gitshow() {\
+  printf '%s\n' "git show --stat --oneline HEAD"\
+  git show --stat --oneline HEAD\
+}\
+fday() {\
+  printf '%s\n' "find . -mtime -1 -ls | awk '{ print  \$11 }'"\
+  find . -mtime -1 -ls | awk '{ print  $11 }'\
+}\
+ii(){\
+  echo 'x'\
+}\
+mkcd() {\
+    mkdir -p $@ && cd $@;\
+}\
+\
+export PATH=$PATH:/home/steff007/.local/bin\
+export PATH=$PATH:/home/steff007/script\
+\
+#sudo apt install fd-find\
+alias fd=fdfind\
+# rename  's/^(.{30}).*?(\.[^.]*)$/$1$2/' * #replace long name\
+# rename "s/[^a-zA-Z0-9\.]/_/g" *\
+# rename "s/_+/_/g" *\
+# rename "y/A-Z/a-z/" *\
+#way cool\
+# git rev-list --objects --all | grep -f <(git verify-pack -v .git/objects/pack/*.idx| sort -k 3 -n | cut -f 1 -d " " | tail -10)\
+# https://junyonglee.me/github/How-to-clean-up-git-repository/\
+#find -mindepth 1 -maxdepth 1 -print0 | xargs -r0 rm -R\
+#fd -emp3 | xargs mv -t /mnt/c/minour\
+\
+
+: 1739995503:0;dfc
+: 1739995507:0;fday
+: 1739995517:0;cd
+: 1739995525:0;v .zshrc
+: 1739995542:0;l
+: 1739995544:0;fg
+: 1739995563:0;source ~/functions.sh
+: 1739995568:0;func
+: 1739995573:0;wi
+: 1739995578:0;wi func
+: 1739995583:0;tf func
+: 1739995587:0;qqq
+: 1739995606:0;sell
+: 1739995614:0;func
+: 1739995619:0;tf func
+: 1739995624:0;nvim
+: 1739995634:0;nvim ~/functions.sh
+: 1739995641:0;cd
+: 1739995642:0;l
+: 1739995652:0;v functions.sh
+: 1739995662:0;v ~/functions.sh
+: 1739995668:0;func
+: 1739995681:0;tf fun
+: 1739995685:0;tf func
+: 1739995698:0;nvim ~/functions.sh
+: 1739995759:0;fd -a functions.sh
+: 1739995769:0;nvim /home/steff007/functions.sh
+: 1739995781:0;cat /home/steff007/functions.sh
+: 1739995793:0;lf
+: 1740003529:0;tar
+: 1740003536:0;tldr tar
+: 1740003541:0;func
+: 1740003551:0;tf rl
+: 1740003553:0;tl
+: 1740003557:0;tl ls
+: 1740003575:0;cd
+: 1740003577:0;pwd
+: 1740003609:0;npm install -g tldr
+: 1740003631:0;tldr tar
+: 1740003642:0;wi node
+: 1740003644:0;node
+: 1740003682:0;sudo apt install nodejs
+: 1740003697:0;cd
+: 1740003698:0;l
+: 1740003705:0;mps
+: 1740003707:0;l
+: 1740003711:0;v intall
+: 1740003716:0;v install
+: 1740003933:0;fd -a install
+: 1740003940:0;fd -a install | cl
+: 1740004007:0;ailia 'mintal='/mnt/c/proj/install'
+: 1740004050:0;alias 'mintal'='v /mnt/c/proj/install'
+: 1740004052:0;mintal
+: 1740004090:0;tldr
+: 1740004099:0;tf tldr
+: 1740004110:0;tldr 'ls'
+: 1740004128:0;/mnt/c/Users/jimst/AppData/Roaming/npm/tldr
+: 1740004134:0;/mnt/c/Users/jimst/AppData/Roaming/npm/tldr ls
+: 1740004168:0;/mnt/c/Users/jimst/AppData/Roaming/npm/tldr
+: 1740004176:0;qqq
+: 1740004205:0;node -v
+: 1740004239:0;tldr sudo
+: 1740004254:0;tldr -u
+: 1740004264:0;tf tf
+: 1740004271:0;typd -f tldr
+: 1740004281:0;type -f tldr
+: 1740004299:0;tldr -v
+: 1740004357:0;tldr --list
+: 1740004406:0;tldr --update
+: 1740006329:0;gits
+: 1740006343:0;mc
+: 1740006351:0;cd gits
+: 1740006352:0;l
+: 1740006375:0;cd
+: 1740006376:0;mps
+: 1740006377:0;l
+: 1740006378:0;ld
+: 1740006427:0;fd -d .bit
+: 1740006434:0;fd -d .git
+: 1740006436:0;l
+: 1740006493:0;gst
+: 1740006500:0;ld
+: 1740006507:0;h
+: 1740009606:0;pass
+: 1740009615:0;tf pass
+: 1740009624:0;nvim /mnt/c/temp/pass
+: 1740009633:0;mc
+: 1740009636:0;cd temp
+: 1740009636:0;l
+: 1740009640:0;v pass
+: 1740009872:0;pass
+: 1740009879:0;tf pass
+: 1740009891:0;nvim /mnt/c/temp/pass
+: 1740009896:0;cd
+: 1740009899:0;mc
+: 1740009912:0;cd /mnt/c/temp
+: 1740009931:0;fd -a pa | cl
+: 1740009940:0;l
+: 1740009946:0;fd -a pass
+: 1740009960:0;nvim /mnt/c/temp/pass
+: 1740009968:0;l
+: 1740009970:0;fg
+: 1740009997:0;nvim /mnt/c/temp
+: 1740010009:0;tf nbime
+: 1740010020:0;tf nvim
+: 1740010042:0;/opt/nvim-linux64/bin/nvim /mnt/c/temp/pass
+: 1740010079:0;wi pass
+: 1740010088:0;tf pass
+: 1740010091:0;pass
+: 1740010098:0;l
+: 1740010100:0;fg
+: 1740010131:0;/opt/nvim-linux64/bin/nvim /mnt/c/temp/pass
+: 1740010152:0;pass
+: 1740010160:0;wi pass
+: 1740010164:0;tf pss
+: 1740010169:0;tf pass
+: 1740010177:0;func
+: 1740010190:0;v ~/functions.sh
+: 1740010209:0;pass(){\
+nvim /mnt/c/temp/pass\
+}\
+
+: 1740010211:0;pass
+: 1740010229:0;h
+: 1740010240:0;pas(){\nnvim /mnt/c/temp/pass\n}\n
+: 1740010245:0;h
+: 1740010255:0;pas(){\
+nvim /mnt/c/temp/pass\
+}\
+
+: 1740010256:0;pas
+: 1740010282:0;nvim /mnt/c/temp/pass
+: 1740010308:0;h
+: 1740010322:0;v /mnt/c/temp/pass
+: 1740010338:0;func
+: 1740010350:0;v ~/functions.sh
+: 1740010368:0;pass(){\
+v /mnt/c/temp/pass\
+}\
+
+: 1740010369:0;pass
+: 1740011122:0;mps
+: 1740011124:0;s
+: 1740011133:0;cd junk/q
+: 1740011134:0;l
+: 1740011140:0;v chat.html
+: 1740011268:0;cd /mnt/c/you/spoken/emmet
+: 1740011270:0;l
+: 1740011273:0;space
+: 1740011290:0;l
+: 1740011303:0;v ~/script/space
+: 1740011324:0;echo 'fd -tf -d 1 "_+"
+: 1740011326:0;fg
+: 1740011373:0;echo 'fd -tf -d 1 "_+"\
+echo 'fd -tf -d 1 "_+"'
+: 1740011380:0;echo 'fd -tf -d 1 "_+"'\
+echo 'fd -tf -d 1 "_+"'
+: 1740011385:0;fg
+: 1740011424:0;v
+: 1740011430:0;echo 'fd -tf -d 1 "_+"'\
+echo 'fd -tf -d 1 "_+"'
+: 1740011432:0;h
+: 1740011443:0;echo 'fd -tf -d 1 "_+"'
+: 1740011456:0;h
+: 1740011469:0;tf h
+: 1740011482:0;hi |  cut -c 1-7 --complement | nvim -c "normal Gzz"  -
+: 1740011507:0;fg
+: 1740011509:0;l
+: 1740011523:0;v ~/script/space
+: 1740011543:0;space
+: 1740011560:0;v ~/script/space
+: 1740011592:0;fd -tf -d 1 "_+"'\
+fg
+: 1740011594:0;fg
+: 1740011605:0;echo 'fd -tf -d 1 "_+"'
+: 1740011620:0;fd -tf -d 1 "_+"
+: 1740011627:0;fg
+: 1740011658:0;echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"'
+: 1740011660:0;l
+: 1740011678:0;echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"' *
+: 1740011680:0;l
+: 1740011711:0;rename "s/[^a-zA-Z0-9\.]/_/g"' *
+: 1740011716:0;rename "s/[^a-zA-Z0-9\.]/_/g" *
+: 1740011718:0;l
+: 1740011911:0;minstall
+: 1740011916:0;mstall
+: 1740011920:0;h
+: 1740011938:0;mintal
+: 1740011981:0;func
+: 1740011984:0;fun
+: 1740011991:0;tf fun
+: 1740011998:0;v ~/script/functions.sh
+: 1740012010:0;exit
+: 1740012013:0;func
+: 1740012022:0;tf v
+: 1740012109:0;/opt/nvim-linux64/bin/nvim ~/functions.sh
+: 1740012120:0;tf b
+: 1740012123:0;tf v
+: 1740012145:0;func
+: 1740012163:0;fun
+: 1740012177:0;alias fun="v ~/script/functions.sh"
+: 1740012179:0;fun
+: 1740012205:0;func
+: 1740012262:0;alias fun="/opt/nvim-linux64/bin/nvim ~/script/functions.sh"
+: 1740012264:0;fun
+: 1740012273:0;tf fun
+: 1740012494:0;alias fun="/opt/nvim-linux64/bin/nvim ~/script/functions.sh"
+: 1740012496:0;fun
+: 1740012547:0;alias fun="/opt/nvim-linux64/bin/nvim ~/functions.sh"
+: 1740012549:0;fun
+: 1740012575:0;qqq
+: 1740012589:0;func
+: 1740012591:0;fun
+: 1740012598:0;tf func
+: 1740012605:0;fun
+: 1740012632:0;qqq
+: 1740012652:0;func
+: 1740012654:0;fun
+: 1740012665:0;l
+: 1740012669:0;cd
+: 1740012675:0;fun
+: 1740012677:0;func
+: 1740012687:0;v functions.sh
+: 1740012707:0;func()\
+{\
+  nvim ~/functions.sh\
+}\
+
+: 1740012711:0;func
+: 1740012746:0;pwd
+: 1740012754:0;bash
+: 1740012782:0;qqq
+: 1740012852:0;func
+: 1740012863:0;tf func
+: 1740012870:0;nvim
+: 1740012889:0;cd $home
+: 1740012898:0;pwd
+: 1740012901:0;l
+: 1740012906:0;pwd |cl
+: 1740012922:0;h
+: 1740012942:0;func
+: 1740012945:0;v functions.sh
+: 1740012971:0;pwd
+: 1740012980:0;pwd | cl
+: 1740012985:0;v functions.sh
+: 1740013023:0;func()\
+{\
+  nvim /home/steff007/functions.sh\
+}\
+
+: 1740013025:0;func
+: 1740013089:0;l
+: 1740013095:0;fd -a functions.sh
+: 1740013171:0;h
+: 1740013182:0;tv h
+: 1740013184:0;tf
+: 1740013187:0;tf h
+: 1740013207:0;hi |  cut -c 1-7 --complement | nvim -c "normal Gzz"  -
+: 1740013803:0;h
+: 1740013825:0;mintall
+: 1740013829:0;mtall
+: 1740013832:0;h
+: 1740013842:0;type v h
+: 1740013855:0;hi |  cut -c 1-7 --complement | nvim -c "normal Gzz"  -
+: 1740013881:0;l
+: 1740013893:0;cd nvchad
+: 1740013894:0;l
+: 1740013899:0;cd lua
+: 1740013900:0;l
+: 1740013905:0;cd nvchad
+: 1740013906:0;l
+: 1740013908:0;lf
+: 1740014100:0;il
+: 1740014102:0;ls
+: 1740014127:0;mps
+: 1740014128:0;s
+: 1740014139:0;winp
+: 1740014141:0;func
+: 1740014159:0;tf winp
+: 1740014168:0;winp
+: 1740014172:0;func
+: 1740014186:0;v ~/functions.sh
+: 1740014202:0;tf func
+: 1740014234:0;v /home/steff007/functions.sh
+: 1740014254:0;func
+: 1740014257:0;fun
+: 1740014268:0;tf fun
+: 1740014275:0;/opt/nvim-linux64/bin/nvim ~/functions.sh
+: 1740014288:0;cd
+: 1740014291:0;v functions.sh
+: 1740014354:0;awsq
+: 1740014365:0;l
+: 1740014369:0;nvim alias
+: 1740014394:0;nvim hist
+: 1740014401:0;tf nbim
+: 1740014409:0;tf nnvim
+: 1740014417:0;tf nvim
+: 1740014451:0;nvim () {                                                                                                                                    /opt/nvim-linux64/bin/nvim\
+}\
+
+: 1740014454:0;h
+: 1740014483:0;nvim () {                                                                                                                                    /opt/nvim-linux64/bin/nvim\
+}
+: 1740014486:0;h
+: 1740014515:0;nvim () {                                                                                                                                    /opt/nvim-linux64/bin/nvim "#1"\
+}\
+
+: 1740014524:0;ls
+: 1740014534:0;nvim new.sh
+: 1740014555:0;nvim gos
+: 1740014571:0;func
+: 1740014576:0;tf func
+: 1740014599:0;l
+: 1740015786:0;v
+: 1740015794:0;vinit
+: 1740015813:0;cd .config
+: 1740015815:0;l
+: 1740015829:0;cd nvim
+: 1740015843:0;l
+: 1740015850:0;v init.vim
+: 1740015925:0;v
+: 1740015929:0;l
+: 1740015939:0;v x.thml
+: 1740016045:0;ls
+: 1740016048:0;cd
+: 1740016067:0;v .zshrc
+: 1740018134:0;mps
+: 1740018136:0;s
+: 1740018154:0;cd junk/q/
+: 1740018158:0;l
+: 1740018161:0;v chat
+: 1740018168:0;v chat.html
+: 1740018399:0;l
+: 1740097983:0;spoke
+: 1740097985:0;l
+: 1740097995:0;mkcd neo
+: 1740098000:0;ytd https://github.com/navxio/neode
+: 1740160641:0;h
+: 1740160716:0;func
+: 1740160720:0;fun
+: 1740160726:0;tf func
+: 1740160740:0;cd
+: 1740160743:0;pwd
+: 1740160752:0;ld
+: 1740160756:0;func
+: 1740160767:0;tf func
+: 1740160772:0;tf fun
+: 1740160774:0;func
+: 1740160792:0;pwd
+: 1740160796:0;v functions.sh
+: 1740160809:0;nvim /home/steff007/functions.sh
+: 1740160861:0;fd -a func
+: 1740160886:0;v /home/steff007/functions.sh
+: 1740160925:0;./functions.sh
+: 1740160928:0;func
+: 1740160939:0;fun
+: 1740160942:0;func
+: 1740160948:0;tf func
+: 1740160981:0;func
+: 1740161003:0;nvim /home/steff007/functions.sh
+: 1740161033:0;fd 'fun'
+: 1740161041:0;v functions.sh
+: 1740161046:0;pwd
+: 1740161075:0;nvim /home/steff007/functions.sh
+: 1740161094:0;h
+: 1740161101:0;cat /home/steff007/functions.sh
+: 1740161111:0;l
+: 1740161119:0;nvim functions.sh
+: 1740161130:0;cat functions.sh
+: 1740161137:0;wi nvim
+: 1740161141:0;v functions.sh
+: 1740161145:0;nvim functions.sh
+: 1740161151:0;wi nvim
+: 1740161187:0;/opt/nvim-linux64/bin/nvim
+: 1740161193:0;wi v
+: 1740161198:0;v
+: 1740161202:0;tf v
+: 1740161229:0;tf nvim
+: 1740161237:0;nvim
+: 1740161242:0;ls
+: 1740161249:0;ls -a
+: 1740161252:0;l
+: 1740161259:0;t a
+: 1740161267:0;l
+: 1740161271:0;t xx
+: 1740161278:0;cd
+: 1740161286:0;l
+: 1740161294:0;nvim new.sh
+: 1740161303:0;wi nvim
+: 1740161317:0;wi v
+: 1740161320:0;v
+: 1740161325:0;tf v
+: 1740161372:0;func
+: 1740161388:0;wi func
+: 1740161394:0;tf func
+: 1740161414:0;nvim /home/steff007/functions.sh
+: 1740161431:0;tf v
+: 1740161439:0;tf nbim
+: 1740161442:0;tf nvim
+: 1740161459:0;/opt/nvim-linux64/bin/nvim functions.sh
+: 1740161477:0;ps
+: 1740161480:0;ls
+: 1740161487:0;nvim gos
+: 1740161496:0;cat gos
+: 1740161514:0;/opt/nvim-linux64/bin/nvim gos
+: 1740161545:0;v functions.sh
+: 1740161557:0;tl ps
+: 1740161856:0;v functions.sh
+: 1740161872:0;dds
+: 1740161877:0;tf dds
+: 1740161904:0;v functions.sh
+: 1740161995:0;qqq
+: 1740162004:0;nvim
+: 1740162008:0;l
+: 1740162014:0;dds
+: 1740162023:0;func
+: 1740162036:0;dfc
+: 1740162040:0;dff
+: 1740162042:0;func
+: 1740162048:0;ddc
+: 1740162052:0;ld
+: 1740162059:0;l
+: 1740162063:0;v install
+: 1740171395:0;h
+: 1740171462:0;hi |  cut -c 1-7 --complement | nvim -c "normal Gzz"  -
+: 1740171470:0;tf h
+: 1740171481:0;h
+: 1740171719:0;mps
+: 1740171721:0;cd junk
+: 1740171722:0;git clone https://github.com/doctorfree/nvim-lazyman $HOME/.config/nvim-Lazyman
+: 1740171738:0;ld
+: 1740171759:0;cd
+: 1740171762:0;cd .config
+: 1740171764:0;ls
+: 1740171765:0;ld
+: 1740171772:0;cd nvim-Lazyman
+: 1740171773:0;l
+: 1740171794:0;./lazyman.sh
+: 1740174079:0;lazyman -d
+: 1740174085:0;h
+: 1740174093:0;sudo lazyman -d
+: 1740174100:0;h
+: 1740174118:0;sudo ./lazyman.sh
+: 1740174350:0;hh
+: 1740174365:0;sudo ./lazyman.sh
+: 1740174391:0;..
+: 1740174392:0;l
+: 1740174400:0;s
+: 1740174415:0;..
+: 1740174416:0;l
+: 1740174422:0;d
+: 1740174638:0;duh
+: 1740174673:0;v
+: 1740174754:0;printf "put ='foo'\n%%print\n" | nvim -es
+: 1740174916:0;nvim +"lua require('bar')" -l foo.lua
+: 1740174984:0;	h
+: 1740175103:0;cd
+: 1740175106:0;cd .config
+: 1740175107:0;ls
+: 1740175109:0;tre
+: 1740175112:0;tree
+: 1740175118:0;l
+: 1740175130:0;cd nvIM
+: 1740175142:0;cd nvim
+: 1740175143:0;l
+: 1740175155:0;fd i
+: 1740175163:0;fd -a i
+: 1740175189:0;nvim -u /home/steff007/.config/nvim/i.lua
+: 1740175205:0;h
+: 1740175211:0;l
+: 1740175259:0;nvim -u /home/steff007/.config/nvim/i.lua
+: 1740175354:0;h
+: 1740175362:0;/home/steff007/.config/nvim/i.lua
+: 1740175373:0;v /home/steff007/.config/nvim/i.lua
+: 1740175447:0;h
+: 1740175481:0;/home/steff007/.config/nvim/i.lua
+: 1740175488:0;v /home/steff007/.config/nvim/i.lua
+: 1740175492:0;h
+: 1740175514:0;alias
+: 1740175528:0;alias | rg 'vv'
+: 1740175575:0;v /home/steff007/.config/nvim/i.lua
+: 1740175660:0;qqq
+: 1740176103:0;h
+: 1740176109:0;v /home/steff007/.config/nvim/i.lua
+: 1740176259:0;h
+: 1740176340:0;alias vv="nvim -u /home/steff007/.config/nvim/i.lua"
+: 1740176342:0;vv
+: 1740176360:0;v
+: 1740176365:0;vv
+: 1740176379:0;h
+: 1740176419:0;vv
+: 1740176542:0;v /home/steff007/.config/nvim/i.lua"
+: 1740176547:0;v "/home/steff007/.config/nvim/i.lua"
+: 1740176734:0;vv
+: 1740176780:0;fg
+: 1740178181:0;vv
+: 1740178429:0;duh
+: 1740180708:0;vv
+: 1740270371:0;talk
+: 1740270377:0;speak
+: 1740270386:0;cd /mnt/c/you
+: 1740270387:0;ld
+: 1740270398:0;cd spoken
+: 1740270403:0;ytd https://www.youtube.com/watch\?v\=lpQMeFph1RE
+: 1740334993:0;v
+: 1740335001:0;nvim
+: 1740335004:0;h
+: 1740335019:0;vv
+: 1740335164:0;cd .config
+: 1740335165:0;l
+: 1740335167:0;fd
+: 1740335171:0;pwd
+: 1740335180:0;ld
+: 1740335184:0;fdi
+: 1740335193:0;h
+: 1740335211:0;pwd
+: 1740335229:0;fd
+: 1740335232:0;fd -H -I
+: 1740335244:0;h6
+: 1740335246:0;h5
+: 1740335255:0;cd 
+: 1740335256:0;pwd
+: 1740335262:0;cd .config
+: 1740335263:0;l
+: 1740335275:0;ld
+: 1740335289:0;ls -a
+: 1740335309:0;pwd
+: 1740335317:0;qqq
+: 1740335487:0;pwd
+: 1740335496:0;cd
+: 1740335503:0;cd .config
+: 1740335505:0;tree
+: 1740335513:0;ld
+: 1740335533:0;lf
+: 1740338827:0;vv
+: 1740338861:0;tf vv
+: 1740338867:0;pwd
+: 1740338873:0;v
+: 1740338881:0;vv
+: 1740338915:0;vv /home/steff007/.config/nvim/i.lua
+: 1740348120:0;vv
+: 1740437066:0;l
+: 1740437071:0;cd .config
+: 1740437072:0;l
+: 1740437074:0;ls
+: 1740437079:0;ls -a
+: 1740437086:0;fg
+: 1740437145:0;l
+: 1740437147:0;pwd
+: 1740437151:0;ls -a
+: 1740437154:0;pwd
+: 1740437171:0;ls -a
+: 1740437174:0;fd
+: 1740437176:0;fg
+: 1740437188:0;l
+: 1740437190:0;ls
+: 1740437192:0;fd
+: 1740437196:0;pwd
+: 1740437212:0;cd
+: 1740437215:0;pwd
+: 1740437224:0;cd
+: 1740437228:0;cd .config
+: 1740437231:0;l
+: 1740437261:0;fg
+: 1740437377:0;vv
+: 1740437393:0;l
+: 1740437395:0;pwd
+: 1740437400:0;fg
+: 1740437599:0;exit
+: 1740437608:0;vv
+: 1740437909:0;cd
+: 1740437916:0;cd junk
+: 1740437922:0;git clone git@github.com:LazyVim/starter.git
+: 1740437926:0;l
+: 1740437928:0;fd
+: 1740437935:0;h
+: 1740437972:0;l
+: 1740437977:0;cd starter
+: 1740437978:0;l
+: 1740437985:0;fd -a init.lua
+: 1740437992:0;fg
+: 1740438032:0;nvim -u /home/steff007/junk/starter/init.lua
+: 1740438081:0;fg
+: 1740438113:0;v /home/steff007/junk/starter/init.lua
+: 1740438134:0;fdi
+: 1740438147:0;v /home/steff007/junk/starter/init.lua
+: 1740438152:0;nvim -u /home/steff007/junk/starter/init.lua
+: 1740438175:0;fd lazy
+: 1740438183:0;pwd
+: 1740438230:0;exit
+: 1740439905:0;mps
+: 1740439906:0;l
+: 1740439912:0;cat install
+: 1740440582:0;v install
+: 1740440611:0;man ls
+: 1740440622:0;v install
+: 1740440644:0;apt install sudo
+: 1740440670:0;l
+: 1740440673:0;v install
+: 1740441369:0;l
+: 1740441621:0;v install
+: 1740441915:0;l
+: 1740441917:0;gst
+: 1740441960:0;git add . && git commit -am "install"
+: 1740441967:0;gst
+: 1740441989:0;git push
+: 1740442016:0;v install
+: 1740506169:0;spoke
+: 1740506177:0;mkcd adduser
+: 1740506181:0;ytd https://www.youtube.com/watch\?v\=19WOD84JFxA\&t\=368s
+: 1740508086:0;l
+: 1740508091:0;space
+: 1740508093:0;l
+: 1740508109:0;v ~/script/space
+: 1740508132:0;n=$(echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"')
+: 1740508136:0;echo $n
+: 1740508152:0;fd -tf -d 1 "[^a-zA-Z0-9\.]"
+: 1740508175:0;l
+: 1740508213:0;rename "s/__/_g" *
+: 1740508215:0;l
+: 1740508242:0;rename "s/__/_/g" *
+: 1740508244:0;l
+: 1740508248:0;rename "s/__/_/g" *
+: 1740508251:0;l
+: 1740508273:0;v json
+: 1740508862:0;ls - l /home
+: 1740508910:0;cat /etc/passwd
+: 1740508968:0;cat /etc/passwd | wc -l
+: 1740509011:0;h
+: 1740509025:0;cat /etc/passwd | grep 'steff'
+: 1740509109:0;sud useradd foxmoulder
+: 1740509111:0;h
+: 1740509118:0;sudo useradd foxmoulder
+: 1740509125:0;h
+: 1740509131:0;cat /etc/passwd
+: 1740509328:0;h
+: 1740509334:0;ls - l /home
+: 1740509364:0;sudo userdel foxmoulder
+: 1740509403:0;h
+: 1740509413:0;sudo useradd -m foxmoulder
+: 1740509418:0;h
+: 1740509424:0;ls - l /home
+: 1740509522:0;useradd -h
+: 1740509533:0;useradd -h | v -
+: 1740509570:0;sudo adduser fox
+: 1740509595:0;su fox
+: 1740509985:0;su steff007
+: 1740509992:0;whoami
+: 1740509994:0;v
+: 1740510009:0;su fox
+: 1740510023:0;exit
+: 1740510066:0;heds
+: 1740510071:0;tf heds
+: 1740510102:0;head -n8
+: 1740510114:0;head -n8 | v -
+: 1740510164:0;exit
+: 1740510402:0;tl adduser
+: 1740510441:0;tldr adduser
+: 1740510447:0;whoami
+: 1740510454:0;node
+: 1740510462:0;exit
+: 1740510985:0;cd /etc
+: 1740510986:0;ld
+: 1740510999:0;func
+: 1740511010:0;dfc
+: 1740511020:0;cat passwd
+: 1740511058:0;dfc
+: 1740511084:0;cd default
+: 1740511085:0;l
+: 1740511093:0;v useradd
+: 1740511248:0;zsh
+: 1740511261:0;sell
+: 1740511268:0;tf sell
+: 1740511315:0;cd
+: 1740511317:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1740511362:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+: 1740511373:0;his
+: 1740511374:0;h
+: 1740511379:0;ls -a
+: 1740511393:0;h
+: 1740511413:0;sell
+: 1740511420:0;tf sell
+: 1740511440:0;sell
+: 1740511450:0;echo $0
+: 1740511466:0;whoami
+: 1740511501:0;git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
+: 1740511522:0;nvim ~/.zshrc
+: 1740511610:0;qqq
+: 1740511819:0;h
+: 1740511841:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+: 1740511860:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+: 1740511876:0;git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+: 1740511893:0;git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
+: 1740511923:0;ls
+: 1740511926:0;ls -a
+: 1740511931:0;pwd
+: 1740511935:0;c
+: 1740511937:0;cd 
+: 1740511944:0;v .bashrc
+: 1740511951:0;h
+: 1740511965:0;mps
+: 1740511966:0;l
+: 1740511973:0;v install
+: 1740512147:0;sudo -E wl-copy
+: 1740512243:0;exit
+: 1740512274:0;l
+: 1740512276:0;cd
+: 1740512291:0;v .zshrc
+: 1740512306:0;qqq
+: 1740512320:0;l
+: 1740512325:0;v hist
+: 1740512329:0;v alias
+: 1740512341:0;vinit
+: 1740512675:0;wl-copy
+: 1740512708:0;vinit
+: 1740512768:0;l
+: 1740512772:0;v derror
+: 1740513332:0;snap alias wl-clip.copy wl-copy
+: 1740513337:0;h
+: 1740513344:0;snap alias wl-clip.copy wl-copy
+: 1740513359:0;audo snap alias wl-clip.copy wl-copy
+: 1740513392:0;sudo snap alias wl-clip.copy wl-copy
+: 1740513420:0;sudo snap install wl-clip
+: 1740513560:0;v
+: 1740513628:0;sudo nano /etc/gdm3/custom.conf
+: 1740513666:0;echo $XDG_SESSION_TYPE
+: 1740513720:0;cd /etc
+: 1740513721:0;l
+: 1740513724:0;fdf
+: 1740513736:0;fd custom
+: 1740513756:0;mkcd gdm3
+: 1740513762:0;md gdm3
+: 1740513897:0;wl-copy
+: 1740513939:0;env | grep -E "DISPLAY|SWAY|XDG_SESSION_TYPE"
+: 1740513999:0;exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK XDG_CURRENT_DESKTOP
+: 1740514002:0;cd
+: 1740514008:0;h
+: 1740514174:0;sudo apt update\
+sudo apt install snapd
+: 1740514225:0;sudo snap install wl-clip
+: 1740514445:0;l
+: 1740514449:0;v alias
+: 1740514474:0;kitty -o linux_display_server=x11
+: 1740514715:0;l
+: 1740514719:0;v alias
+: 1740514768:0;h
+: 1740514790:0;mps
+: 1740514791:0;l
+: 1740514803:0;fd -a install
+: 1740514841:0;mps
+: 1740514842:0;l
+: 1740514845:0;fd -a install
+: 1740514880:0;h
+: 1740514884:0;mps
+: 1740514893:0;fd -a install | cl
+: 1740514976:0;alias inst="nvim /mnt/c/proj/install"
+: 1740514978:0;inst
+: 1740514992:0;v ~/.zshrc
+: 1740515015:0;qqq
+: 1740515020:0;l
+: 1740515026:0;mps
+: 1740515036:0;inst
+: 1740515041:0;h
+: 1740515062:0;ist
+: 1740515065:0;inst
+: 1740515079:0;l
+: 1740515086:0;v install
+: 1740515090:0;v ins
+: 1740515118:0;gst
+: 1740515313:0;git add .
+: 1740515317:0;gst
+: 1740515330:0;git commit -am "install"
+: 1740515340:0;l
+: 1740516386:0;adduser sammy
+: 1740516395:0;whoami
+: 1740516398:0;cd
+: 1740516415:0;adduser sammy
+: 1740516427:0;cat /etc/passwd
+: 1740516443:0;whoami
+: 1740516444:0;su
+: 1740516457:0;h
+: 1740516491:0;qqq
+: 1740516496:0;h
+: 1740516628:0;sudo snap install wl-clip
+: 1740516671:0;man kitty
+: 1740516675:0;l
+: 1740516681:0;v alias
+: 1740516708:0;uptime
+: 1740516716:0;vinit
+: 1740517061:0;win32yank.exe
+: 1740517069:0;h
+: 1740517079:0;Win32Yank
+: 1740517096:0;v
+: 1740517153:0;vinit
+: 1740517283:0;h
+: 1740517416:0;sudo snap install wl-clip
+: 1740517431:0;snap help refresh
+: 1740517504:0;v
+: 1740517527:0;h
+: 1740517602:0;nvim --clean
+: 1740517777:0;echo $WAYLAND_DISPLAY
+: 1740517823:0;echo $DISPLAY
+: 1740517971:0;sudo systemctl restart gdm3
+: 1740518016:0;v
+: 1740518197:0;vinit
+: 1740519031:0;h
+: 1740519361:0;nvim 10.3 on wsl.\
+Really changed nothing but suddenly get this error when copy to clipboard.\
+wl-copy failed connect wayland server.\
+\
+I don't use x or wayland. Why does this effect cli/character only nvim settings\
+\
+I tried.\
+set clipbaord+=unamed.\
+and sudo snap install wl-clip\
+\
+Thanks for any ideas\
+\
+
+: 1740519400:0;cd /etc
+: 1740519416:0;sudo mkdir gdm3
+: 1740519424:0;cd gdm3
+: 1740519425:0;l
+: 1740519441:0;v custom.conf
+: 1740519496:0;sudo nvim custom.conf
+: 1740519525:0;l
+: 1740519529:0;qqq
+: 1740519542:0;v /etc/
+: 1740519665:0;echo $XDG_SESSION_TYPE install ed\
+echo $XDG_SESSION_TYPE
+: 1740519679:0;echo $XDG_SESSION_TYPE
+: 1740519700:0;$XDG_SESSION_TYPE=x11
+: 1740519717:0;$XDG_SESSION_TYPE='x11'
+: 1740519727:0;set
+: 1740519735:0;set $XDG_SESSION_TYPE='x11'
+: 1740519747:0;man set
+: 1740519771:0;set
+: 1740519833:0;x='Bash scripting is fun'\
+echo $x $y
+: 1740519841:0;echo $x
+: 1740519843:0;h5
+: 1740519845:0;h
+: 1740519892:0;nano
+: 1740520247:0;sudo nano /etc/gdm3/custom.conf
+: 1740520307:0;sudo systemctl restart gdm3
+: 1740520638:0;	Q
+: 1740520937:0;vv
+: 1740520951:0;l
+: 1740520956:0;v derror
+: 1740521170:0;fd | vv
+: 1740521225:0;tf vv
+: 1740521234:0;vv /home/steff007/.config/nvim/i.lua
+: 1740521941:0;v
+: 1740521959:0;fg
+: 1740521991:0;vv
+: 1740522063:0;whoami
+: 1740522071:0;cd .config
+: 1740522071:0;l
+: 1740522079:0;fd init
+: 1740522101:0;v nvim/init.vim
+: 1740522116:0;vv
+: 1740522155:0;tf vv
+: 1740522175:0;v /home/steff007/.config/nvim/i.lua\
+âƒ¾ƒ¼  .config git:(main) âƒ¼ƒ·                                                
+: 1740522235:0;vv
+: 1740522403:0;vv --version
+: 1740522413:0;vv
+: 1740523079:0;cat /etc/passwd
+: 1740523093:0;adduser sammy
+: 1740523104:0;deluser sammy
+: 1740523108:0;h
+: 1740523116:0;sudo deluser sammy
+: 1740523140:0;adduser sammy
+: 1740523153:0;cat /etc/passwd
+: 1740523167:0;cat /etc/passwd | rg 'sam'
+: 1740523173:0;adduser sammy
+: 1740523178:0;h
+: 1740523182:0;sudo adduser sammy
+: 1740523203:0;cat /etc/passwd
+: 1740523216:0;cat /etc/passwd | sort -r
+: 1740523228:0;cat /etc/passwd | rg 'sam'
+: 1740523255:0;usermod
+: 1740523277:0;usermod -aG sudo sammy
+: 1740523299:0;h
+: 1740523308:0;sudo usermod -aG sudo sammy
+: 1740523317:0;cat /etc/passwd
+: 1740523326:0;su sammy
+: 1740523528:0;mps
+: 1740523531:0;l
+: 1740523548:0;cp install /mnt/c/home
+: 1740523562:0;cp install /home/sammy
+: 1740523568:0;su
+: 1740523582:0;whoami
+: 1740523585:0;su
+: 1740523932:0;su sammy
+: 1740527311:0;alias cheat="curl cheat.sh"
+: 1740527313:0;cheat ls
+: 1740527515:0;cd
+: 1740527517:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1740527530:0;whoami
+: 1740527535:0;qqq
+: 1740527555:0;cat /etc/passwd
+: 1740527561:0;su sonny
+: 1740527568:0;su sammy
+: 1740527765:0;exit
+: 1740527821:0;sell
+: 1740527826:0;tf sell
+: 1740527849:0;echo /home/steff007/alias
+: 1740527861:0;cat /home/steff007/alias
+: 1740527871:0;v alias
+: 1740527890:0;echo $0
+: 1740527900:0;su sammy
+: 1740528020:0;usermod -aG sudo sammy
+: 1740528033:0;whoami
+: 1740528040:0;h
+: 1740528048:0;sudo usermod -aG sudo sammy
+: 1740528058:0;h
+: 1740528062:0;su sammy
+: 1740528382:0;whoami
+: 1740528391:0;su sammy
+: 1740529770:0;v /etc/sudoers
+: 1740529776:0;h
+: 1740529782:0;sudo v /etc/sudoers
+: 1740529787:0;h
+: 1740529797:0;sudo nvim /etc/sudoers
+: 1740529997:0;cd /etc/sudoers.d
+: 1740530008:0;cat l
+: 1740530009:0;l
+: 1740530015:0;v service-ssh-start
+: 1740530049:0;qqq
+: 1740531241:0;h
+: 1740531281:0;su sammy
+: 1740532717:0;mc
+: 1740532718:0;l
+: 1740532728:0;cd store
+: 1740532730:0;pw
+: 1740532731:0;cd
+: 1740532737:0;cd -
+: 1740532738:0;pc
+: 1740532743:0;l
+: 1740532756:0;cd .config
+: 1740532757:0;l
+: 1740532760:0;cd nvIM
+: 1740532763:0;cd nvim
+: 1740532765:0;l
+: 1740532774:0;cp init.vim /mnt/c/store
+: 1740532778:0;v
+: 1740532798:0;mc
+: 1740532800:0;cd store
+: 1740532800:0;l
+: 1740532809:0;fd -a init
+: 1740532825:0;h
+: 1740532878:0;nvim -u /home/steff007/junk/starter/init.lua
+: 1740532897:0;h
+: 1740532927:0;nvim -u /home/steff007/junk/starter/init.lua
+: 1740532943:0;whoami
+: 1740532947:0;fd
+: 1740532950:0;ls
+: 1740532967:0;fd -d 1
+: 1740532975:0;fd -d 1 -H
+: 1740532990:0;fd -H -d 1 init.vim
+: 1740532997:0;fd -H -d 1 -a init.vim
+: 1740533009:0;nvim -u /mnt/c/store/init.vim
+: 1740533054:0;l
+: 1740533067:0;cp init.vim a.vim
+: 1740533071:0;v a.vim
+: 1740533079:0;h
+: 1740533097:0;nvim -u /mnt/c/store/a.vim
+: 1740533523:0;v /mnt/c/store/a.vim
+: 1740533540:0;nvim -u /mnt/c/store/a.vim
+: 1740533570:0;h
+: 1740533804:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1740533818:0;mkcd v
+: 1740533821:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1740533826:0;l
+: 1740533827:0;ls
+: 1740533829:0;u
+: 1740533831:0;ls
+: 1740533840:0;mc
+: 1740533842:0;cd junk
+: 1740533844:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1740533859:0;git clone https://github.com/LazyVim/starter .config/nvim
+: 1740533868:0;l
+: 1740533871:0;h
+: 1740533877:0;d
+: 1740533880:0;0
+: 1740533891:0;pwd
+: 1740533894:0;ls
+: 1740533899:0;ls -a
+: 1740533904:0;cd Vim
+: 1740533905:0;l
+: 1740533909:0;exit
+: 1740533911:0;ld
+: 1740533919:0;stree
+: 1740533923:0;fd
+: 1740533932:0;git clone https://github.com/LazyVim/starter .
+: 1740533935:0;l
+: 1740533940:0;git clone https://github.com/LazyVim/starter ./v
+: 1740533952:0;cd v
+: 1740533953:0;l
+: 1740533962:0;fd -a init.lua
+: 1740533969:0;h
+: 1740533994:0;nvim -u /mnt/c/store/v/init.lua
+: 1740534013:0;l
+: 1740534024:0;nvim -u /mnt/c/store/v/init.lua
+: 1740534091:0;tree
+: 1740534100:0;nvim -u /mnt/c/store/v/init.lua
+: 1740534146:0;l
+: 1740534152:0;v
+: 1740534198:0;ls
+: 1740534207:0;fg
+: 1740534212:0;nvim -u /mnt/c/store/v/init.lua
+: 1740534233:0;whoami
+: 1740534249:0;su sammy
+: 1740534930:0;whomai
+: 1740534937:0;whoami
+: 1740534991:0;l
+: 1740534996:0;pc
+: 1740535026:0;chmod -R a+rw /mnt/c/store/v
+: 1740535034:0;su sammy
+: 1740535099:0;mc
+: 1740535102:0;cd store
+: 1740535109:0;/mnt/c/store/v
+: 1740535124:0;l
+: 1740535143:0;whoamu
+: 1740535146:0;whoami
+: 1740535163:0;l
+: 1740535175:0;cd $HOME
+: 1740535179:0;l
+: 1740535690:0;mc
+: 1740535698:0;md x
+: 1740535699:0;cd x
+: 1740535711:0;chmod -R a+rwx x
+: 1740535721:0;ls
+: 1740535723:0;..
+: 1740535727:0;cd x
+: 1740535731:0;ls -l
+: 1740535733:0;ls -t
+: 1740535740:0;tldr ls
+: 1740535758:0;l
+: 1740535759:0;h
+: 1740535774:0;ls -lhtrt
+: 1740535780:0;ls -l
+: 1740535784:0;exit
+: 1740535798:0;ls -lthr
+: 1740535843:0;lf
+: 1740535852:0;cat new.sh
+: 1740535893:0;cp new.sh /mnt/c/projects
+: 1740535894:0;l
+: 1740535900:0;..
+: 1740535902:0;mpa
+: 1740535905:0;mps
+: 1740535906:0;pwd
+: 1740535913:0;h
+: 1740535922:0;cd
+: 1740535923:0;l
+: 1740535927:0;cp new.sh /mnt/c/proj
+: 1740535929:0;mps
+: 1740535931:0;l
+: 1740535940:0;v install new.sh
+: 1740536904:0;cd
+: 1740536910:0;v .zshrc
+: 1740536931:0;h
+: 1740536957:0;whoami
+: 1740536961:0;su sammy
+: 1740537114:0;exit
+: 1740537121:0;ls
+: 1740537122:0;l
+: 1740537127:0;fd
+: 1740537137:0;fung
+: 1740537141:0;func
+: 1740537151:0;ffc
+: 1740537158:0;whoami
+: 1740537166:0;./functions.sh
+: 1740537168:0;ffc
+: 1740537174:0;func
+: 1740537179:0;dfc
+: 1740538385:0;node
+: 1740539553:0;h
+: 1740540994:0;pass
+: 1740593659:0;whoami
+: 1740593682:0;su
+: 1740593691:0;su sammy
+: 1740594022:0;export PS1="\u >\s\v "
+: 1740594038:0;echo $0
+: 1740594109:0;PROMPT='%F{green}%*%f %F{blue}%~%f %F{red}${vcs_info_msg_0_}%f$ '
+: 1740594174:0;PROMPT='%/ %# '
+: 1740594186:0;su sammy
+: 1740608867:0;fd -d 1 .fon
+: 1740608874:0;mkcd .fonts
+: 1740608877:0;pc
+: 1740611278:0;down
+: 1740611279:0;l
+: 1740611389:0;cd
+: 1740611390:0;l
+: 1740611419:0;tar -tfv tarName.tar
+: 1740611473:0;	tar tvf tarName.tar
+: 1740611487:0;	tar tvf tarName.tar | less
+: 1740611529:0;l
+: 1740611533:0;ts tarName.tar
+: 1740611534:0;l
+: 1740611560:0;mem
+: 1740611568:0;htop
+: 1740611574:0;ps
+: 1740612589:0;cat /etc/passwd
+: 1740612643:0;h
+: 1740612652:0;curl tar
+: 1740612693:0;cheat tar
+: 1740612742:0;cht.sh lua/:learn
+: 1740613014:0;npm install -g tldr
+: 1740613037:0;h
+: 1740613043:0;sudo npm install -g tldr
+: 1740613089:0;tldr chmod
+: 1740613170:0;tldr ls
+: 1740613177:0;ls -l
+: 1740613198:0;cd /home
+: 1740613199:0;ls
+: 1740613200:0;l
+: 1740613259:0;sudo userdel username fox
+: 1740613285:0;sudo userdel username fox -r
+: 1740613311:0;h
+: 1740613321:0;sudo userdel  fox -r
+: 1740613325:0;l
+: 1740613352:0;sudo userdel  foxmoulder -r
+: 1740613357:0;fd
+: 1740613360:0;find
+: 1740613391:0;duh
+: 1740613411:0;ls -k sammy
+: 1740613421:0;ls -l sammy
+: 1740613445:0;cd sammy
+: 1740613446:0;l
+: 1740613597:0;	..
+: 1740613599:0;l
+: 1740613605:0;chmod ugo+rwx sammy
+: 1740613610:0;ls -l
+: 1740613620:0;ls sammy
+: 1740613624:0;cd sammy
+: 1740613625:0;l
+: 1740613641:0;..
+: 1740613649:0;cd steff007
+: 1740613655:0;ls -l
+: 1740613667:0;pwd
+: 1740613671:0;..
+: 1740613672:0;h
+: 1740613686:0;chmod ugo+rwx steff007
+: 1740613691:0;ld -l
+: 1740613695:0;ls -l
+: 1740613720:0;su sammy
+: 1740619639:0;cat /etc/passwd
+: 1740619654:0;groups steff007
+: 1740619690:0;groups sammy
+: 1740619876:0;ls
+: 1740619883:0;l
+: 1740619895:0;chmod 777 alias
+: 1740619907:0;l | tail
+: 1740625232:0;ls -l
+: 1740625268:0;duh
+: 1740625283:0;cd nvchad
+: 1740625284:0;l
+: 1740625290:0;ls lua
+: 1740625300:0;la lua
+: 1740625305:0;tree
+: 1740625316:0;cd lua
+: 1740625317:0;l
+: 1740625320:0;cd nvchad
+: 1740625321:0;l
+: 1740625331:0;..
+: 1740625332:0;ls
+: 1740625334:0;l
+: 1740625337:0;..
+: 1740625338:0;l
+: 1740625345:0;fd init
+: 1740626872:0;v .zshrc
+: 1740626918:0;vv .zshrc
+: 1740627039:0;qqq
+: 1740627047:0;l
+: 1740629701:0;h
+: 1740629762:0;l
+: 1740629776:0;cq
+: 1740629779:0;h
+: 1740688622:0;w
+: 1740688627:0;tf w
+: 1740688644:0;w -V
+: 1740688667:0;w --help
+: 1740688679:0;w
+: 1740689000:0;PROMPT="%{$bg[cyan]%}%{$fg[red]%}%n%{$reset_color%}%{$bg[cyan]%}@%{$fg[red]%}%m %{$fg[yellow]%}%~ %{$reset_color%}%{$bg[cyan]%}%% "
+: 1740689032:0;whoami
+: 1740689049:0;su sammy
+: 1740769699:0;l
+: 1740769774:0;cat /etc/group
+: 1740769806:0;[200~getent group~
+: 1740769811:0;getent group
+: 1740769816:0;go\
+.rwxrwxrwx  7.7k steff007 steff007 25 Feb 17:58  ali
+: 1740769828:0;getent group
+: 1740769842:0;getent group | column
+: 1740769875:0;getent group | cut -d: -f1,3
+: 1740769893:0;getent group | cut -d: -f1,3 | column
+: 1740769919:0;getent group | cut -d: -f1,3 | awk '{print "Group:", $1, "GID:", $2}'
+: 1740769954:0;tldr group
+: 1740770509:0;openssl passwd -1
+: 1740770708:0;less /etc/passwd
+: 1740770791:0;grep -E '^UID_MIN|^UID_MAX' /etc/login.defs
+: 1740770818:0;getent passwd  UID
+: 1740770837:0;getent passwd  {0..400}
+: 1740770876:0;awk -F':' '{ print $1}' /etc/passwd
+: 1740770894:0;awk -F':' '{ print $1}' /etc/passwd | column
+: 1740771003:0;ls /etc/skel
+: 1740771013:0;cd /etc/skil
+: 1740771119:0;unsetopt CDABLE_VARS
+: 1740771259:0;unsetopt correct_all
+: 1740771261:0;ls
+: 1740771330:0;ENABLE_CORRECTION="false"\
+unsetopt correct_all\
+unsetopt correct
+: 1740771336:0;qqq
+: 1740771346:0;ls
+: 1740771368:0;ls -l
+: 1740771374:0;pwd
+: 1740771380:0;whaomi
+: 1740771384:0;whoami
+: 1740771393:0;h
+: 1740771399:0;ENABLE_CORRECTION="false"\
+unsetopt correct_all\
+unsetopt correct
+: 1740771403:0;h
+: 1740771427:0;ENABLE_CORRECTION="false"\
+unsetopt correct_all\
+unsetopt correct
+: 1740771446:0;vinit
+: 1740771459:0;h
+: 1740771514:0;ENABLE_CORRECTION="false"\
+unsetopt correct_all\
+unsetopt correct
+: 1740771681:0;vv
+: 1740771751:0;tf vv
+: 1740771781:0;who
+: 1740771785:0;ls
+: 1740771794:0;cd .config
+: 1740771795:0;l
+: 1740771800:0;cd NVIM_BACKUP
+: 1740771808:0;cd nvim
+: 1740771811:0;pwd
+: 1740771813:0;..
+: 1740771816:0;cd nvim
+: 1740771817:0;l
+: 1740771832:0;v init.vim
+: 1740771849:0;v i.lua
+: 1740772111:0;talk
+: 1740772114:0;speak
+: 1740772119:0;h
+: 1740772125:0;vim.opt.clipboard = "unnamedplus"
+: 1740772139:0;you
+: 1740772140:0;l
+: 1740772143:0;ld
+: 1740772147:0;cd spoken
+: 1740772148:0;ld
+: 1740772153:0;cd lazy
+: 1740772154:0;l
+: 1740772169:0;wpath
+: 1740772180:0;space
+: 1740772182:0;l
+: 1740772210:0;rename "s/_+/_/g"
+: 1740772219:0;rename "s/_+/_/g" *
+: 1740772220:0;l
+: 1740772344:0;space
+: 1740772357:0;v /home/steff007/script/space
+: 1740772861:0;v
+: 1740772865:0;l
+: 1740772869:0;v derror
+: 1740773340:0;s
+: 1740773345:0;pwd
+: 1740773354:0;l
+: 1740773366:0;m
+: 1740773368:0;mc
+: 1740773436:0;cd
+: 1740773448:0;v .zshrc
+: 1740773496:0;qqq
+: 1740773510:0;ls
+: 1740773527:0;l
+: 1740773531:0;func
+: 1740773539:0;dfc
+: 1740773545:0;v alias
+: 1740773616:0;l
+: 1740773619:0;v alias
+: 1740773775:0;l
+: 1740773777:0;v alias
+: 1740773870:0;l
+: 1740773874:0;v rena
+: 1740773905:0;spoke
+: 1740773907:0;l
+: 1740773923:0;rename 's/\[.*\]//g' *\
+rename 's/[^a-zA-Z0-9\.]/_/g' *\
+rename -f 'y/A-Z/a-z/' *\
+rename 's/__/_/g' *\
+
+: 1740773924:0;l
+: 1740773956:0;rename 's/__/_/g' *
+: 1740773957:0;l
+: 1740774086:0;ls | 'ma' | cut 4
+: 1740774104:0;fd 'ma' | cut 4
+: 1740774111:0;fd "ma"
+: 1740774118:0;fd "ma" | cut 2
+: 1740774139:0;gst
+: 1740774146:0;m
+: 1740774151:0;cd ~/script
+: 1740774152:0;l
+: 1740774159:0;gst
+: 1740774166:0;gdiff
+: 1740774243:0;l
+: 1740774252:0;spoke
+: 1740774254:0;l
+: 1740774271:0;fd ' '
+: 1740774277:0;cd 3dock
+: 1740774297:0;v ~/script/space
+: 1740774324:0;space
+: 1740774373:0;echo 'fd -tf -d 1 "_+"' -exec rename "s/_+/_/g"'
+: 1740774375:0;echo 'fd -tf -d 1 "_+"' -exec rename "s/_+/_/g"
+: 1740774389:0;l
+: 1740774399:0;v ~/script/space
+: 1740774415:0;n=$(echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"')
+: 1740774418:0;n
+: 1740774422:0;n=$(echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"')
+: 1740774426:0;v ~/script/space
+: 1740774437:0;echo $n
+: 1740774452:0;fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"
+: 1740774460:0;fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g" *
+: 1740774466:0;l
+: 1740774475:0;rename
+: 1740774480:0;l
+: 1740774484:0;h
+: 1740774562:0;l
+: 1740774564:0;rename "s/[^a-zA-Z0-9\.]/_/g" *
+: 1740774565:0;l
+: 1740774576:0;h
+: 1740774596:0;v ~/script/space
+: 1740774637:0;n=$(echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g"')
+: 1740774641:0;echo $n
+: 1740774662:0;v ~/script/space
+: 1740774670:0;eval $n
+: 1740774686:0;h
+: 1740774702:0;n=$(echo 'fd -tf -d 1 "[^a-zA-Z0-9\.]" -exec rename "s/[^a-zA-Z0-9\.]/_/g" *')
+: 1740774705:0;eval $n
+: 1740774719:0;echo $n
+: 1740774742:0;fd -tf -d 1 "[^a-zA-Z0-9\.]"
+: 1740774773:0;rename "s/[^a-zA-Z0-9\.]/_/g" *
+: 1740774774:0;l
+: 1740774816:0;cd ~/script
+: 1740774817:0;l
+: 1740774827:0;v nospace
+: 1740774839:0;d
+: 1740774847:0;spoke
+: 1740774848:0;l
+: 1740774855:0;nospace
+: 1740774856:0;l
+: 1740774865:0;fd ' '
+: 1740774869:0;cd lazy
+: 1740774871:0;nospace
+: 1740774872:0;l
+: 1740774901:0;exit
+: 1740774925:0;v ~/script/nospace
+: 1740774972:0;l
+: 1740774978:0;fd ' '
+: 1740774981:0;..
+: 1740774987:0;d 1
+: 1740774991:0;fd ' '
+: 1740775016:0;cd spoken
+: 1740775017:0;l
+: 1740775024:0;fd ' '
+: 1740775357:0;echo $c
+: 1740775371:0;v backup.sh
+: 1740775389:0;cd /mnt
+: 1740775389:0;l
+: 1740775412:0;md backup
+: 1740775426:0;sudo md backup
+: 1740775438:0;sudo mkdir backup
+: 1740775440:0;ld
+: 1740775445:0;cd
+: 1740775458:0;l
+: 1740775518:0;v backup.sh
+: 1740775528:0;l
+: 1740775558:0;tldr chmod
+: 1740775599:0;chmod u+x backup.sh
+: 1740775601:0;l
+: 1740775629:0;sudo ./backup.sh
+: 1740775697:0;cd /boot
+: 1740775698:0;l
+: 1740775699:0;ls
+: 1740775701:0;la
+: 1740775725:0;cd /root
+: 1740775726:0;l
+: 1740775728:0;ls
+: 1740775732:0;find .
+: 1740775756:0;cd mnt
+: 1740775758:0;cd /mnt
+: 1740775759:0;l
+: 1740775763:0;cd backup
+: 1740775764:0;l
+: 1740775774:0;ls
+: 1740775779:0;ps
+: 1740775782:0;htop
+: 1740775847:0;cd
+: 1740775847:0;l
+: 1740775850:0;v backup.sh
+: 1740776630:0;hogs
+: 1740776632:0;mhogs
+: 1740776640:0;htop
+: 1740776668:0;exit
+: 1740776681:0;l
+: 1740776690:0;tldr tar
+: 1740776711:0;l
+: 1740776719:0;tar tvf steff007-Friday.tgz
+: 1740776774:0;l
+: 1740776789:0;exit
+: 1740776800:0;duh
+: 1740779985:0;PROMPT=""\
+RPROMPT="%n"
+: 1740780019:0;PROMPT="%d"\
+RPROMPT="%n"
+: 1740780031:0;cd
+: 1740780053:0;PROMPT="%d"\
+RPROMPT="%n"
+: 1740780065:0;PROMPT="%d "\
+RPROMPT="%n"
+: 1740780074:0;su sammy
+: 1740780779:0;zstyle ':vcs_info:git*' formats "ƒ€ %F{blue}%b%f %m%u%c %a "\
+zstyle ':vcs_info:*' enable git\
+zstyle ':vcs_info:*' check-for-changes true\
+zstyle ':vcs_info:*' stagedstr ' %F{green}âƒ¼ƒº%f'\
+zstyle ':vcs_info:*' unstagedstr ' %F{red}âƒ·ƒ¯%f'\
+\
+precmd() {\
+    vcs_info\
+    print -P '%B%~%b ${vcs_info_msg_0_}'\
+}\
+\
+PROMPT='%B%(!.#.$)%b '
+: 1740780828:0;autoload -Uz vcs_info\
+precmd() { vcs_info }\
+
+: 1740780853:0;autoload -Uz vcs_info\
+precmd() { vcs_info }\
+\
+zstyle ':vcs_info:git:*' formats '%b '\
+\
+setopt PROMPT_SUBST\
+PROMPT='%F{green}%*%f %F{blue}%~%f %F{red}${vcs_info_msg_0_}%f$ '\
+
+: 1740780867:0;mps
+: 1740780875:0;cd
+: 1740780949:0;PROMPT='%1~ > '
+: 1740780958:0;mps
+: 1740780996:0;PROMPT='%(?.%F{14}âƒ¯º.%F{9}âƒ¯º)%f %2~ %# '
+: 1740781002:0;cd
+: 1740781064:0;PROMPT='%n@%m %~ %# '
+: 1740781068:0;mps
+: 1740781081:0;PROMPT='%n %~ %# '
+: 1740781086:0;cd
+: 1740781094:0;su sonny
+: 1740781101:0;su sammy
+: 1740781192:0;exit
+: 1740781239:0;sudo adduser jim
+: 1740781262:0;whoami
+: 1740781267:0;su jim
+: 1740787449:0;l
+: 1740787451:0;h
+: 1740787454:0;s
+: 1740787504:0;PROMPT="%n@%m%# "
+: 1740787514:0;mps
+: 1740787564:0;prompt walters
+: 1740787629:0;print -P '%B%F{red}co%F{green}lo%F{blue}rs%f%b'
+: 1740787691:0;export PS1="\u@\h \[$(tput sgr0)\]"
+: 1740787774:0;PROMPT="%n%d"
+: 1740787785:0;PROMPT="%n %d "
+: 1740787787:0;l
+: 1740787795:0;cd
+: 1740787797:0;cd .config
+: 1740787798:0;l
+: 1740787801:0;h
+: 1740787811:0;..
+: 1740787816:0;v .zshrc
+: 1740787842:0;su sonny
+: 1740787848:0;l
+: 1740787861:0;cat /etc/passwd
+: 1740787875:0;su
+: 1740787884:0;login sammy
+: 1740787911:0;su - sammy
+: 1740788092:0;whoami
+: 1740788097:0;su -sonny
+: 1740788109:0;su - sammy
+: 1740788164:0;qqq
+: 1740788187:0;su -s sonny
+: 1740788206:0;su -s sammy
+: 1740788225:0;cd
+: 1740788233:0;h
+: 1740788281:0;v
+: 1740788288:0;l
+: 1740788291:0;v alias
+: 1740788304:0;qqq
+: 1740788335:0;l
+: 1740788337:0;v alias
+: 1740788358:0;cd ..
+: 1740788359:0;l
+: 1740788363:0;cd jim
+: 1740788379:0;sudo chmod +777 jim
+: 1740788383:0;l
+: 1740788385:0;cd jim
+: 1740788386:0;l
+: 1740788388:0;fd
+: 1740788396:0;ls 0a
+: 1740788399:0;ls -a
+: 1740788405:0;l
+: 1740788411:0;ls -a
+: 1740788429:0;nvim .bashrc
+: 1740788452:0;whoami
+: 1740788468:0;login sammy
+: 1740788474:0;login - sammy
+: 1740788513:0;sudo -i -u sammy
+: 1740788635:0;exit
+: 1740788638:0;qqq
+: 1740788920:0;sbp
+: 1740788923:0;spb
+: 1740788925:0;h
+: 1740788933:0;sup
+: 1740788936:0;exit
+: 1740789184:0;l
+: 1740789203:0;cd ..
+: 1740789204:0;l
+: 1740789340:0;sudo /bin/su - sammy <<'EOF'\
+whoami
+: 1740789343:0;whoami
+: 1740789371:0;sudo /bin/su - sammy <<'EOF'\
+exit\
+exit\
+qqq\
+exit
+: 1740789381:0;mps
+: 1740789383:0;l
+: 1740789392:0;v install
+: 1740789738:0;zsh
+: 1740789746:0;exit
+: 1740789759:0;bash
+: 1740789792:0;echo $0
+: 1740792049:0;fdi profile
+: 1740792058:0;fdi -d 1 profile
+: 1740792062:0;v .profile
+: 1740792304:0;whoami
+: 1740792405:0;v /etc/skel/
+: 1740792429:0;cd /etc/skel
+: 1740792429:0;l
+: 1740792435:0;laa
+: 1740792438:0;la
+: 1740792451:0;v .bashrc
+: 1740794763:0;l
+: 1740794768:0;v alias
+: 1740794816:0;vv
+: 1740795775:0;uptime
+: 1740795780:0;who
+: 1740796771:0;printenv
+: 1740796789:0;printenv | v -
+: 1740802208:0;v
+: 1740802235:0;wsl
+: 1740802239:0;l
+: 1740802474:0;h
+: 1740966059:0;sudo adduser myuser --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password\
+echo "myuser:password" | sudo chpasswd
+: 1740966082:0;cat /etc/passwd
+: 1740966128:0;w
+: 1740966144:0;h
+: 1740966178:0;openssl passwd -1
+: 1740966225:0;getent passwd  {1000..9999}
+: 1740966254:0;..
+: 1740966255:0;ld
+: 1740966283:0;tldr deluser
+: 1740966320:0;sudo deluser --remove-home myuser
+: 1740966329:0;getent passwd  {1000..9999}
+: 1740966345:0;sudo deluser --remove-home newuser
+: 1740966349:0;getent passwd  {1000..9999}
+: 1740967088:0;tldr chmod
+: 1740994722:0;bold=$(tput bold)\
+underline=$(tput sgr 0 1)\
+reset=$(tput sgr0)\
+\
+purple=$(tput setaf 171)\
+red=$(tput setaf 1)\
+green=$(tput setaf 76)\
+tan=$(tput setaf 3)\
+blue=$(tput setaf 38)
+: 1740994739:0;e_header() { printf "\n${bold}${purple}==========  %s  ==========${reset}\n" "$@"\
+}\
+e_arrow() { printf "âƒ¾ƒ¼ $@\n"\
+}\
+e_success() { printf "${green}âƒ¼ƒ´ %s${reset}\n" "$@"\
+}\
+e_error() { printf "${red}âƒ¼ƒ¶ %s${reset}\n" "$@"\
+}\
+e_warning() { printf "${tan}âƒ¾ƒ¼ %s${reset}\n" "$@"\
+}\
+e_underline() { printf "${underline}${bold}%s${reset}\n" "$@"\
+}\
+e_bold() { printf "${bold}%s${reset}\n" "$@"\
+}\
+e_note() { printf "${underline}${bold}${blue}Note:${reset}  ${blue}%s${reset}\n" "$@"\
+}
+: 1740994756:0;seek_confirmation() {\
+  printf "\n${bold}$@${reset}"\
+  read -p " (y/n) " -n 1\
+  printf "\n"\
+}\
+
+: 1740994771:0;seek_confirmation
+: 1740994784:0;seek_confirmation 2
+: 1740994800:0;printf "\n${bold}$@${reset}"
+: 1740994822:0;printf "${underline}${bold}${blue}Note:${reset}  ${blue}%s${reset}\n"
+: 1740995645:0;df -i
+: 1740995655:0;df
+: 1740995658:0;tldr df
+: 1740995665:0;df -h
+: 1740995686:0;df -h | head
+: 1740996052:0;lvm
+: 1740996319:0;fdisk
+: 1740996326:0;fdisk --help
+: 1740997498:0;hostname=$(/usr/bin/hostnamectl | grep hostname | cut -d: -f2 | sed 's/^[[:space:]]*//')
+: 1740997506:0;echo $hostname
+: 1740998033:0;ocker run -w /root -it --rm alpine:edge sh -uelic '\
+  apk add git lazygit fzf curl neovim ripgrep alpine-sdk --update\
+  git clone https://github.com/LazyVim/starter ~/.config/nvim\
+  cd ~/.config/nvim\
+  nvim\
+'
+: 1740998040:0;docker run -w /root -it --rm alpine:edge sh -uelic '\
+  apk add git lazygit fzf curl neovim ripgrep alpine-sdk --update\
+  git clone https://github.com/LazyVim/starter ~/.config/nvim\
+  cd ~/.config/nvim\
+  nvim\
+'
+: 1741137761:0;spoken
+: 1741137763:0;h
+: 1741137775:0;speak
+: 1741137777:0;func
+: 1741137784:0;spoke
+: 1741137792:0;mkcd users
+: 1741137795:0;ytd https://www.youtube.com/watch\?v\=19WOD84JFxA\&t\=660s
+: 1741144102:0;ps -ef | awk '{print $3, $5, $7}'
+: 1741144116:0;ps -ef
+: 1741144149:0;ps -ef | sort
+: 1741242642:0;spoke
+: 1741242653:0;mkcd leet
+: 1741242666:0;ytd https://www.reddit.com/r/theprimeagen/comments/1j445n6/leetcode_is_officially_cooked_and_big_tech/
+: 1741307189:0;v
+: 1741327840:0;down
+: 1741327842:0;l
+: 1741484367:0;sudo apt install kitty
+: 1741484389:0;kitty
+: 1741484401:0;ls
+: 1741492958:0;v
+: 1741494737:0;echo $0
+: 1741495073:0;exit
+: 1741495111:0;l
+: 1741495112:0;lf
+: 1741495157:0;psa
+: 1741495161:0;lsa
+: 1741495179:0;lt
+: 1741495186:0;ps -a
+: 1741495189:0;lsa
+: 1741495208:0;s
+: 1741495213:0;s 300
+: 1741495219:0;s 30
+: 1741674282:0;cd script
+: 1741674290:0;v muser.sh
+: 1741674305:0;l
+: 1741674313:0;chmod +x muser.sh
+: 1741674314:0;l
+: 1741674324:0;./muser.sh xxx xxx
+: 1741674346:0;cat /etc/passwd
+: 1741674370:0;l
+: 1741674382:0;recentOne
+: 1741674386:0;lf
+: 1741674584:0;hh
+: 1741674601:0;./muser.sh p
+: 1741674642:0;sudo ./muser.sh y
+: 1741674716:0;getent passw
+: 1741674724:0;getent passwd
+: 1741674760:0;awk -F: '$3 > 1000 {print $1}' /etc/passwd
+: 1741674771:0;h
+: 1741674778:0;func
+                                                                                              : 1741675001:0;h
+: 1741675270:0;fun
+: 1741675281:0;h
+: 1741675287:0;func
+: 1741675355:0;cd
+: 1741675356:0;mv .zsh_history .zsh_history_bad

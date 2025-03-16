@@ -1,0 +1,68 @@
+{
+  "parser-directories": [
+    "/home/steff007/github",
+    "/home/steff007/src",
+    "/home/steff007/source",
+    "/home/steff007/projects",
+    "/home/steff007/dev",
+    "/home/steff007/git"
+  ],
+  "theme": {
+    "constant": 94,
+    "constant.builtin": {
+      "color": 94,
+      "bold": true
+    },
+    "function": 26,
+    "variable": 252,
+    "punctuation": 239,
+    "punctuation.delimiter": 239,
+    "punctuation.special": 239,
+    "attribute": {
+      "italic": true,
+      "color": 124
+    },
+    "number": {
+      "bold": true,
+      "color": 94
+    },
+    "keyword": 56,
+    "string": 28,
+    "embedded": null,
+    "string.special": 30,
+    "property": 124,
+    "tag": 18,
+    "comment": {
+      "italic": true,
+      "color": 245
+    },
+    "operator": {
+      "color": 239,
+      "bold": true
+    },
+    "constructor": 136,
+    "module": 136,
+    "property.builtin": {
+      "bold": true,
+      "color": 124
+    },
+    "punctuation.bracket": 239,
+    "type": 23,
+    "type.builtin": {
+      "bold": true,
+      "color": 23
+    },
+    "variable.builtin": {
+      "color": 252,
+      "bold": true
+    },
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "variable.parameter": {
+      "underline": true,
+      "color": 252
+    }
+  }
+}

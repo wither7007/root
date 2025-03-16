@@ -1,0 +1,4 @@
+rename 's/\[.*\]//g' *
+rename 's/[^a-zA-Z0-9\.]/_/g' *
+rename -f 'y/A-Z/a-z/' *
+rename 's/__/_/g' *

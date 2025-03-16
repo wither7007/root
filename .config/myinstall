@@ -1,0 +1,5 @@
+sudo apt-get install exa
+cp ~/.config/nvim/init.vim .
+chmod ug+rwx .
+sudo chmod ugo+rwx /mnt/c
+

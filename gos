@@ -1,0 +1,68 @@
+./usr/bin/go
+./mnt/c/temp/projects/go
+./mnt/c/Users/jimst/go
+./mnt/c/Users/jimst/go/pkg/mod/honnef.co/go
+./mnt/c/Users/jimst/go/pkg/mod/honnef.co/go/tools@v0.5.1/go
+./mnt/c/Users/jimst/go/pkg/mod/honnef.co/go/tools@v0.4.7/go
+./mnt/c/Users/jimst/go/pkg/mod/golang.org/x/tools@v0.21.1-0.20240531212143-b6235391adb3/go
+./mnt/c/Users/jimst/go/pkg/mod/golang.org/x/tools@v0.22.1-0.20240829175637-39126e24d653/go
+./mnt/c/Users/jimst/go/pkg/mod/golang.org/x/tools@v0.27.0/go
+./mnt/c/Users/jimst/go/pkg/mod/cache/download/sumdb/sum.golang.org/lookup/honnef.co/go
+./mnt/c/Users/jimst/go/pkg/mod/cache/download/honnef.co/go
+./mnt/c/Users/jimst/AppData/Roaming/go
+./mnt/c/Users/jimst/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3/resources/templates/go
+./mnt/c/Users/jimst/go/pkg/mod/mvdan.cc/gofumpt@v0.6.0/internal/govendor/go
+./mnt/c/Program Files/PowerToys/Assets/Monaco/monacoSRC/min/vs/basic-languages/go
+./mnt/c/Program Files/Microsoft VS Code/resources/app/extensions/go
+./mnt/c/Program Files/Go
+./mnt/c/Program Files/Go/src/go
+./mnt/c/Program Files/Go/src/cmd/vendor/golang.org/x/tools/go
+./mnt/c/Program Files/Go/src/cmd/go
+./mnt/c/Program Files/Go/src/cmd/go/testdata/vcstest/go
+./mnt/c/Program Files/Go/src/cmd/cgo/internal/testcshared/testdata/go2c2go/go
+./mnt/c/Program Files/JetBrains/WebStorm 2024.2.4/plugins/textmate/lib/bundles/go
+./mnt/c/Program Files/Android/Android Studio/plugins/textmate/lib/bundles/go
+./mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/TextMate/Starterkit/Extensions/go
+./mnt/c/proj/go
+./mnt/c/projects/go
+./mnt/c/$RECYCLE.BIN/S-1-5-21-3239975193-2866089270-3760445834-1002/$RLLTRS7/App/VSCode/resources/app/extensions/go
+./mnt/c/$RECYCLE.BIN/S-1-5-21-3239975193-2866089270-3760445834-1002/$RLLTRS7/App/VSCode64/resources/app/extensions/go
+./usr/lib/go
+./usr/lib/go-1.18/bin/go
+./usr/lib/go-1.18/pkg/linux_amd64/cmd/go
+./usr/lib/go-1.18/pkg/linux_amd64/cmd/vendor/golang.org/x/tools/go
+./usr/lib/go-1.18/pkg/linux_amd64/go
+./mnt/wslg/distro/usr/bin/go
+./mnt/wslg/distro/usr/share/go
+./mnt/wslg/distro/usr/share/go-1.18/src/cmd/vendor/golang.org/x/tools/go
+./mnt/wslg/distro/usr/share/go-1.18/src/cmd/go
+./mnt/wslg/distro/usr/share/go-1.18/src/go
+./mnt/wslg/distro/usr/share/go-1.18/misc/cgo/testcshared/testdata/go2c2go/go
+./mnt/wslg/distro/usr/lib/go
+./mnt/wslg/distro/usr/lib/go-1.18/bin/go
+./mnt/wslg/distro/usr/lib/go-1.18/pkg/linux_amd64/go
+./mnt/wslg/distro/usr/lib/go-1.18/pkg/linux_amd64/cmd/go
+./mnt/wslg/distro/usr/lib/go-1.18/pkg/linux_amd64/cmd/vendor/golang.org/x/tools/go
+./mnt/wslg/distro/home/steff007/go
+./mnt/wslg/distro/home/steff007/.config/go
+./mnt/wslg/distro/usr/local/go
+./mnt/wslg/distro/usr/local/go/bin/go
+./mnt/wslg/distro/usr/local/go/src/cmd/vendor/golang.org/x/tools/go
+./mnt/wslg/distro/usr/local/go/src/cmd/cgo/internal/testcshared/testdata/go2c2go/go
+./mnt/wslg/distro/usr/local/go/src/cmd/go
+./mnt/wslg/distro/usr/local/go/src/cmd/go/testdata/vcstest/go
+./mnt/wslg/distro/usr/local/go/src/go
+./usr/share/go
+./usr/share/go-1.18/src/cmd/go
+./usr/share/go-1.18/src/cmd/vendor/golang.org/x/tools/go
+./usr/share/go-1.18/src/go
+./usr/share/go-1.18/misc/cgo/testcshared/testdata/go2c2go/go
+./usr/local/go
+./usr/local/go/src/cmd/cgo/internal/testcshared/testdata/go2c2go/go
+./usr/local/go/src/cmd/vendor/golang.org/x/tools/go
+./usr/local/go/src/cmd/go
+./usr/local/go/src/cmd/go/testdata/vcstest/go
+./usr/local/go/src/go
+./usr/local/go/bin/go
+./home/steff007/go
+./home/steff007/.config/go
