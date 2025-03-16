@@ -36,7 +36,7 @@ curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x8
 sudo rm -rf /opt/nvim
 sudo tar -C /opt -xzf nvim-linux-x86_64.tar.gz
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
-wget https://raw.githubusercontent.com/wither7007/all_wsl/refs/heads/main/alias
+wget https://raw.githubusercontent.com/wither7007/root/refs/heads/main/alias
 wget https://raw.githubusercontent.com/wither7007/root/refs/heads/main/functions.sh
 source alias
 
